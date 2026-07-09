@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en" class="h-full bg-slate-950 text-slate-50">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Activity Dashboard - The Static Shell</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+<body class="h-full font-sans antialiased flex flex-col md:flex-row">
+
+    <aside class="w-full md:w-80 bg-slate-900 border-b md:border-b-0 md:border-r border-slate-800 flex flex-col shrink-0">
+        <div class="p-6 border-b border-slate-800 flex items-center gap-3">
+            <div class="p-2 bg-indigo-600/20 text-indigo-400 rounded-lg">
+                <i data-lucide="activity" class="w-6 h-6"></i>
+            </div>
+            <div>
+                <h1 class="font-bold text-lg tracking-tight">PulseAnalytics</h1>
+                <p class="text-xs text-slate-400">Static Shell v1.0</p>
+            </div>
+        </div>
+
+        <div class="p-6 flex-1 flex flex-col gap-6">
+            <div class="flex flex-col gap-2">
+                <label class="text-xs font-semibold uppercase tracking-wider text-slate-400">Import Data</label>
+                <div class="border-2 border-dashed border-slate-700 hover:border-indigo-500/50 rounded-xl p-6 text-center cursor-pointer transition bg-slate-950/40 group">
+                    <input type="file" id="file-upload" class="hidden" />
+                    <label for="file-upload" class="cursor-pointer flex flex-col items-center gap-3">
+                        <div class="p-3 bg-slate-900 rounded-full text-slate-400 group-hover:text-indigo-400 transition">
+                            <i data-lucide="upload-cloud" class="w-6 h-6"></i>
+                        </div>
+                        <div class="text-sm">
+                            <span class="text-indigo-400 font-medium group-hover:underline">Click to upload</span> or drag and drop
+                        </div>
+                        <p class="text-xs text-slate-500">Supported formats: .gpx, .fit, .csv</p>
+                    </label>
+                </div>
+            </div>
+
+            <nav class="flex flex-col gap-1 mt-2">
+                <span class="text-xs font-semibold uppercase tracking-wider text-slate-400 mb-2">Navigation</span>
+                <a href="#" class="flex items-center gap-3 px-4 py-3 bg-slate-800 text-slate-100 font-medium rounded-lg transition">
+                    <i data-lucide="layout-dashboard" class="w-5 h-5 text-indigo-400"></i>
+                    Dashboard
+                </a>
+                <a href="#" class="flex items-center gap-3 px-4 py-3 text-slate-400 hover:bg-slate-800/50 hover:text-slate-200 rounded-lg transition">
+                    <i data-lucide="history" class="w-5 h-5"></i>
+                    History
+                </a>
+                <a href="#" class="flex items-center gap-3 px-4 py-3 text-slate-400 hover:bg-slate-800/50 hover:text-slate-200 rounded-lg transition">
+                    <i data-lucide="settings" class="w-5 h-5"></i>
+                    Settings
+                </a>
+            </nav>
+        </div>
+
+        <div class="p-4 border-t border-slate-800 bg-slate-950/30 flex items-center gap-3">
+            <div class="w-10 h-10 rounded-full bg-indigo-600/30 border border-indigo-500/50 flex items-center justify-center font-bold text-indigo-300">
+                HP
+            </div>
+            <div class="flex-1 min-w-0">
+                <p class="text-sm font-medium text-slate-200 truncate">Sandbox User</p>
+                <p class="text-xs text-slate-400 truncate">local@env.internal</p>
+            </div>
+        </div>
+    </aside>
+
+    <main class="flex-1 p-6 md:p-10 overflow-y-auto">
+        <header class="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-8">
+            <div>
+                <h2 class="text-2xl md:text-3xl font-bold tracking-tight text-slate-100">Performance Overview</h2>
+                <p class="text-slate-400 text-sm mt-1">Review your recent metrics and workout distribution.</p>
+            </div>
+            <div class="flex items-center gap-3 self-start sm:self-auto">
+                <span class="flex h-2 w-2 relative">
+                    <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
+                    <span class="relative inline-flex rounded-full h-2 w-2 bg-emerald-500"></span>
+                </span>
+                <span class="text-xs font-medium text-slate-400 uppercase tracking-wider">Frontend Engine Ready</span>
+            </div>
+        </header>
+
+        <section class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
+            
+            <div class="bg-slate-900 border border-slate-800 rounded-xl p-6 shadow-xl relative overflow-hidden group hover:border-slate-700 transition">
+                <div class="flex justify-between items-start">
+                    <div class="space-y-2">
+                        <p class="text-sm font-medium text-slate-400 tracking-wide uppercase">Total Distance</p>
+                        <h3 class="text-3xl md:text-4xl font-extrabold text-slate-50 tracking-tight">42.2 <span class="text-lg font-medium text-slate-500">km</span></h3>
+                    </div>
+                    <div class="p-3 bg-blue-500/10 text-blue-400 rounded-xl">
+                        <i data-lucide="route" class="w-6 h-6"></i>
+                    </div>
+                </div>
+                <div class="mt-4 flex items-center gap-2 text-xs text-emerald-400">
+                    <i data-lucide="trending-up" class="w-4 h-4"></i>
+                    <span>+12% from last week</span>
+                </div>
+            </div>
+
+            <div class="bg-slate-900 border border-slate-800 rounded-xl p-6 shadow-xl relative overflow-hidden group hover:border-slate-700 transition">
+                <div class="flex justify-between items-start">
+                    <div class="space-y-2">
+                        <p class="text-sm font-medium text-slate-400 tracking-wide uppercase">Average Pace</p>
+                        <h3 class="text-3xl md:text-4xl font-extrabold text-slate-50 tracking-tight">5:24 <span class="text-lg font-medium text-slate-500">/km</span></h3>
+                    </div>
+                    <div class="p-3 bg-amber-500/10 text-amber-400 rounded-xl">
+                        <i data-lucide="timer" class="w-6 h-6"></i>
+                    </div>
+                </div>
+                <div class="mt-4 flex items-center gap-2 text-xs text-emerald-400">
+                    <i data-lucide="trending-up" class="w-4 h-4"></i>
+                    <span>0:15 seconds faster</span>
+                </div>
+            </div>
+
+            <div class="bg-slate-900 border border-slate-800 rounded-xl p-6 shadow-xl relative overflow-hidden group hover:border-slate-700 transition">
+                <div class="flex justify-between items-start">
+                    <div class="space-y-2">
+                        <p class="text-sm font-medium text-slate-400 tracking-wide uppercase">Heart Rate</p>
+                        <h3 class="text-3xl md:text-4xl font-extrabold text-slate-50 tracking-tight">142 <span class="text-lg font-medium text-slate-500">bpm</span></h3>
+                    </div>
+                    <div class="p-3 bg-rose-500/10 text-rose-400 rounded-xl">
+                        <i data-lucide="heart" class="w-6 h-6"></i>
+                    </div>
+                </div>
+                <div class="mt-4 flex items-center gap-2 text-xs text-slate-400">
+                    <i data-lucide="minus" class="w-4 h-4"></i>
+                    <span>Steady baseline avg</span>
+                </div>
+            </div>
+
+        </section>
+
+        <section class="bg-slate-900 border border-slate-800 rounded-xl p-6 h-64 flex flex-col items-center justify-center text-center gap-3">
+            <div class="p-4 bg-slate-950 rounded-full text-slate-600">
+                <i data-lucide="bar-chart-3" class="w-8 h-8"></i>
+            </div>
+            <div>
+                <h4 class="text-slate-200 font-medium">Activity Chart Placeholder</h4>
+                <p class="text-xs text-slate-500 max-w-sm mt-1">Data visualization elements will render here once telemetry state management is wired up.</p>
+            </div>
+        </section>
+    </main>
+
+    <script>
+        lucide.createIcons();
+    </script>
+</body>
+</html>

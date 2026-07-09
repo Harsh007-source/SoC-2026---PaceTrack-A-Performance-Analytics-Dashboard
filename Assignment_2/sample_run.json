@@ -1,0 +1,5506 @@
+{
+  "activity_type": "running",
+  "date": "2026-01-15",
+  "data": [
+    {
+      "timestamp": "2026-01-15T08:00:00",
+      "location": {
+        "latitude": 40.712800973168235,
+        "longitude": -74.00600092680563
+      },
+      "elevation": 9.093517297559945,
+      "metrics": {
+        "heart_rate": 100
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:00:05",
+      "location": {
+        "latitude": 40.71289206281727,
+        "longitude": -74.00591474122257
+      },
+      "elevation": 9.845413306170933,
+      "metrics": {
+        "heart_rate": 100
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:00:10",
+      "location": {
+        "latitude": 40.71299416710216,
+        "longitude": -74.00583200744843
+      },
+      "elevation": 14.14264500105802,
+      "metrics": {
+        "heart_rate": 100
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:00:15",
+      "location": {
+        "latitude": 40.71305789610491,
+        "longitude": -74.0057269234709
+      },
+      "elevation": 14.443744491643296,
+      "metrics": {
+        "heart_rate": 101
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:00:20",
+      "location": {
+        "latitude": 40.71316694646788,
+        "longitude": -74.00563912324058
+      },
+      "elevation": 10.753687749554699,
+      "metrics": {
+        "heart_rate": 101
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:00:25",
+      "location": {
+        "latitude": 40.7132475068347,
+        "longitude": -74.00557525977031
+      },
+      "elevation": 11.046674084805897,
+      "metrics": {
+        "heart_rate": 102
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:00:30",
+      "location": {
+        "latitude": 40.71334803685478,
+        "longitude": -74.00545493857751
+      },
+      "elevation": 12.245044752345848,
+      "metrics": {
+        "heart_rate": 102
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:00:35",
+      "location": {
+        "latitude": 40.71343335239103,
+        "longitude": -74.00534761315602
+      },
+      "elevation": 9.744009313556022,
+      "metrics": {
+        "heart_rate": 103
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:00:40",
+      "location": {
+        "latitude": 40.71351547558087,
+        "longitude": -74.00530530520393
+      },
+      "elevation": 13.052111299060787,
+      "metrics": {
+        "heart_rate": 103
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:00:45",
+      "location": {
+        "latitude": 40.71361268696348,
+        "longitude": -74.00519844892636
+      },
+      "elevation": 7.660897771779019,
+      "metrics": {
+        "heart_rate": 103
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:00:50",
+      "location": {
+        "latitude": 40.71371128360336,
+        "longitude": -74.00510050080422
+      },
+      "elevation": 11.482517768854908,
+      "metrics": {
+        "heart_rate": 104
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:00:55",
+      "location": {
+        "latitude": 40.713783354951914,
+        "longitude": -74.00501421049643
+      },
+      "elevation": 12.402802156112527,
+      "metrics": {
+        "heart_rate": 104
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:01:00",
+      "location": {
+        "latitude": 40.713891940081155,
+        "longitude": -74.00490569793133
+      },
+      "elevation": 15.513986796466522,
+      "metrics": {
+        "heart_rate": 105
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:01:05",
+      "location": {
+        "latitude": 40.71398605175758,
+        "longitude": -74.0048202704846
+      },
+      "elevation": 13.151959212497191,
+      "metrics": {
+        "heart_rate": 105
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:01:10",
+      "location": {
+        "latitude": 40.7140603829858,
+        "longitude": -74.00473648621592
+      },
+      "elevation": 19.29480462712554,
+      "metrics": {
+        "heart_rate": 106
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:01:15",
+      "location": {
+        "latitude": 40.71414827624615,
+        "longitude": -74.0046527997346
+      },
+      "elevation": 13.43624918340166,
+      "metrics": {
+        "heart_rate": 106
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:01:20",
+      "location": {
+        "latitude": 40.714239916735785,
+        "longitude": -74.00457684151584
+      },
+      "elevation": 14.369389492804526,
+      "metrics": {
+        "heart_rate": 107
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:01:25",
+      "location": {
+        "latitude": 40.71432607175898,
+        "longitude": -74.00447442410389
+      },
+      "elevation": 16.28224839333595,
+      "metrics": {
+        "heart_rate": 107
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:01:30",
+      "location": {
+        "latitude": 40.714440409946235,
+        "longitude": -74.00438148228302
+      },
+      "elevation": 15.423247641313118,
+      "metrics": {
+        "heart_rate": 107
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:01:35",
+      "location": {
+        "latitude": 40.71452202474285,
+        "longitude": -74.00429888597498
+      },
+      "elevation": 19.145266788647206,
+      "metrics": {
+        "heart_rate": 108
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:01:40",
+      "location": {
+        "latitude": 40.714622026748636,
+        "longitude": -74.00420388112205
+      },
+      "elevation": 17.829270351436655,
+      "metrics": {
+        "heart_rate": 108
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:01:45",
+      "location": {
+        "latitude": 40.714668403980795,
+        "longitude": -74.00410963370575
+      },
+      "elevation": 16.91881468731045,
+      "metrics": {
+        "heart_rate": 109
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:01:50",
+      "location": {
+        "latitude": 40.71478219885183,
+        "longitude": -74.00400418553536
+      },
+      "elevation": 14.07865584751033,
+      "metrics": {
+        "heart_rate": 109
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:01:55",
+      "location": {
+        "latitude": 40.71487117288632,
+        "longitude": -74.00392522481233
+      },
+      "elevation": 19.904071452825328,
+      "metrics": {
+        "heart_rate": 110
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:02:00",
+      "location": {
+        "latitude": 40.71496848937055,
+        "longitude": -74.0038532486506
+      },
+      "elevation": 18.405856286264992,
+      "metrics": {
+        "heart_rate": 110
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:02:05",
+      "location": {
+        "latitude": 40.715035060603824,
+        "longitude": -74.00374801913108
+      },
+      "elevation": 20.473725373963216,
+      "metrics": {
+        "heart_rate": 111
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:02:10",
+      "location": {
+        "latitude": 40.71513914103843,
+        "longitude": -74.00365709073027
+      },
+      "elevation": 22.201720916701547,
+      "metrics": {
+        "heart_rate": 111
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:02:15",
+      "location": {
+        "latitude": 40.71522570168387,
+        "longitude": -74.00357271281834
+      },
+      "elevation": 19.89889606890064,
+      "metrics": {
+        "heart_rate": 111
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:02:20",
+      "location": {
+        "latitude": 40.71530692954895,
+        "longitude": -74.00348948426868
+      },
+      "elevation": 18.131669279049078,
+      "metrics": {
+        "heart_rate": 112
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:02:25",
+      "location": {
+        "latitude": 40.71540347872837,
+        "longitude": -74.00339869879613
+      },
+      "elevation": 23.01544938533565,
+      "metrics": {
+        "heart_rate": 112
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:02:30",
+      "location": {
+        "latitude": 40.71548350368269,
+        "longitude": -74.00328721983499
+      },
+      "elevation": 17.438124435278983,
+      "metrics": {
+        "heart_rate": 113
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:02:35",
+      "location": {
+        "latitude": 40.71559782998684,
+        "longitude": -74.00321450106676
+      },
+      "elevation": 21.5551324874933,
+      "metrics": {
+        "heart_rate": 113
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:02:40",
+      "location": {
+        "latitude": 40.715681047502066,
+        "longitude": -74.00314476521552
+      },
+      "elevation": 23.914965630449913,
+      "metrics": {
+        "heart_rate": 114
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:02:45",
+      "location": {
+        "latitude": 40.71577372729992,
+        "longitude": -74.00301638433567
+      },
+      "elevation": 21.43426867621397,
+      "metrics": {
+        "heart_rate": 114
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:02:50",
+      "location": {
+        "latitude": 40.71587074094399,
+        "longitude": -74.00294869331597
+      },
+      "elevation": 20.08639214920363,
+      "metrics": {
+        "heart_rate": 114
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:02:55",
+      "location": {
+        "latitude": 40.715941759056534,
+        "longitude": -74.00286080480461
+      },
+      "elevation": 21.437921145366953,
+      "metrics": {
+        "heart_rate": 115
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:03:00",
+      "location": {
+        "latitude": 40.71605495049704,
+        "longitude": -74.00276811924432
+      },
+      "elevation": 23.214090934593504,
+      "metrics": {
+        "heart_rate": 115
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:03:05",
+      "location": {
+        "latitude": 40.71612262473195,
+        "longitude": -74.00267633536585
+      },
+      "elevation": 23.5093137793591,
+      "metrics": {
+        "heart_rate": 116
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:03:10",
+      "location": {
+        "latitude": 40.71623732249342,
+        "longitude": -74.00258084406723
+      },
+      "elevation": 23.21203160874977,
+      "metrics": {
+        "heart_rate": 116
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:03:15",
+      "location": {
+        "latitude": 40.71629646225712,
+        "longitude": -74.00248654337034
+      },
+      "elevation": 23.356212126104293,
+      "metrics": {
+        "heart_rate": 117
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:03:20",
+      "location": {
+        "latitude": 40.716409402335984,
+        "longitude": -74.00239519193177
+      },
+      "elevation": 23.87949787555993,
+      "metrics": {
+        "heart_rate": 117
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:03:25",
+      "location": {
+        "latitude": 40.71650385237449,
+        "longitude": -74.0023140014881
+      },
+      "elevation": 28.28993643921881,
+      "metrics": {
+        "heart_rate": 118
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:03:30",
+      "location": {
+        "latitude": 40.71657807493464,
+        "longitude": -74.00219513741841
+      },
+      "elevation": 21.542914813632336,
+      "metrics": {
+        "heart_rate": 118
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:03:35",
+      "location": {
+        "latitude": 40.716666781265765,
+        "longitude": -74.00212374095949
+      },
+      "elevation": 24.726696413274468,
+      "metrics": {
+        "heart_rate": 118
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:03:40",
+      "location": {
+        "latitude": 40.71675810415894,
+        "longitude": -74.00204870119153
+      },
+      "elevation": 26.82911472280814,
+      "metrics": {
+        "heart_rate": 119
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:03:45",
+      "location": {
+        "latitude": 40.71684596194948,
+        "longitude": -74.00194594323592
+      },
+      "elevation": 26.558927862449384,
+      "metrics": {
+        "heart_rate": 119
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:03:50",
+      "location": {
+        "latitude": 40.71693763348024,
+        "longitude": -74.00182222763641
+      },
+      "elevation": 27.79019216105806,
+      "metrics": {
+        "heart_rate": 120
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:03:55",
+      "location": {
+        "latitude": 40.71702144301655,
+        "longitude": -74.00175374952478
+      },
+      "elevation": 25.7347953907111,
+      "metrics": {
+        "heart_rate": 120
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:04:00",
+      "location": {
+        "latitude": 40.71710563702954,
+        "longitude": -74.00168131045712
+      },
+      "elevation": 23.082357494505725,
+      "metrics": {
+        "heart_rate": 121
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:04:05",
+      "location": {
+        "latitude": 40.71720161543032,
+        "longitude": -74.00158996494676
+      },
+      "elevation": 28.1037191650818,
+      "metrics": {
+        "heart_rate": 121
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:04:10",
+      "location": {
+        "latitude": 40.71730720905738,
+        "longitude": -74.00149446383953
+      },
+      "elevation": 22.69780842187923,
+      "metrics": {
+        "heart_rate": 122
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:04:15",
+      "location": {
+        "latitude": 40.71739491102057,
+        "longitude": -74.00140406246287
+      },
+      "elevation": 25.973976017066907,
+      "metrics": {
+        "heart_rate": 122
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:04:20",
+      "location": {
+        "latitude": 40.71748872869848,
+        "longitude": -74.00132496669471
+      },
+      "elevation": 29.516588341832026,
+      "metrics": {
+        "heart_rate": 122
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:04:25",
+      "location": {
+        "latitude": 40.717574593959014,
+        "longitude": -74.00122637768959
+      },
+      "elevation": 30.138490440227617,
+      "metrics": {
+        "heart_rate": 123
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:04:30",
+      "location": {
+        "latitude": 40.71767157940886,
+        "longitude": -74.00114307220468
+      },
+      "elevation": 28.546863785534185,
+      "metrics": {
+        "heart_rate": 123
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:04:35",
+      "location": {
+        "latitude": 40.717752806610285,
+        "longitude": -74.0010343445441
+      },
+      "elevation": 29.09696270243168,
+      "metrics": {
+        "heart_rate": 124
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:04:40",
+      "location": {
+        "latitude": 40.717836691939866,
+        "longitude": -74.00097443100967
+      },
+      "elevation": 31.521242665193284,
+      "metrics": {
+        "heart_rate": 124
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:04:45",
+      "location": {
+        "latitude": 40.71793285826226,
+        "longitude": -74.00085053193412
+      },
+      "elevation": 29.08942127915594,
+      "metrics": {
+        "heart_rate": 125
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:04:50",
+      "location": {
+        "latitude": 40.71803428206953,
+        "longitude": -74.00077907801666
+      },
+      "elevation": 30.050115305893236,
+      "metrics": {
+        "heart_rate": 125
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:04:55",
+      "location": {
+        "latitude": 40.71811322217169,
+        "longitude": -74.00066764548728
+      },
+      "elevation": 33.284130682287504,
+      "metrics": {
+        "heart_rate": 125
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:05:00",
+      "location": {
+        "latitude": 40.71820758188719,
+        "longitude": -74.00059634884175
+      },
+      "elevation": 33.67007321289191,
+      "metrics": {
+        "heart_rate": 126
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:05:05",
+      "location": {
+        "latitude": 40.71830110735395,
+        "longitude": -74.00051743081369
+      },
+      "elevation": 30.616287513398852,
+      "metrics": {
+        "heart_rate": 126
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:05:10",
+      "location": {
+        "latitude": 40.71838241556906,
+        "longitude": -74.00040813706391
+      },
+      "elevation": 28.830734514166327,
+      "metrics": {
+        "heart_rate": 127
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:05:15",
+      "location": {
+        "latitude": 40.71847814392769,
+        "longitude": -74.0003338871841
+      },
+      "elevation": 30.599019498629545,
+      "metrics": {
+        "heart_rate": 127
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:05:20",
+      "location": {
+        "latitude": 40.71856598822255,
+        "longitude": -74.00024610394462
+      },
+      "elevation": 29.624922603580018,
+      "metrics": {
+        "heart_rate": 128
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:05:25",
+      "location": {
+        "latitude": 40.718657666640006,
+        "longitude": -74.00015252581527
+      },
+      "elevation": 33.217133122643155,
+      "metrics": {
+        "heart_rate": 128
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:05:30",
+      "location": {
+        "latitude": 40.71870862516543,
+        "longitude": -74.0000649369591
+      },
+      "elevation": 32.01320044796439,
+      "metrics": {
+        "heart_rate": 129
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:05:35",
+      "location": {
+        "latitude": 40.71883647688429,
+        "longitude": -73.99996714024478
+      },
+      "elevation": 31.22814124263466,
+      "metrics": {
+        "heart_rate": 129
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:05:40",
+      "location": {
+        "latitude": 40.718921855238726,
+        "longitude": -73.99987572282939
+      },
+      "elevation": 29.651233163996675,
+      "metrics": {
+        "heart_rate": 129
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:05:45",
+      "location": {
+        "latitude": 40.719011210898,
+        "longitude": -73.99979084807987
+      },
+      "elevation": 36.717413745566205,
+      "metrics": {
+        "heart_rate": 130
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:05:50",
+      "location": {
+        "latitude": 40.71910341642746,
+        "longitude": -73.99968904226486
+      },
+      "elevation": 35.42782508194567,
+      "metrics": {
+        "heart_rate": 130
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:05:55",
+      "location": {
+        "latitude": 40.71918589544588,
+        "longitude": -73.99960841416116
+      },
+      "elevation": 33.886009690288624,
+      "metrics": {
+        "heart_rate": 131
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:06:00",
+      "location": {
+        "latitude": 40.719294713940755,
+        "longitude": -73.99952812993195
+      },
+      "elevation": 29.330444988314404,
+      "metrics": {
+        "heart_rate": 131
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:06:05",
+      "location": {
+        "latitude": 40.71936955117584,
+        "longitude": -73.99943887611349
+      },
+      "elevation": 33.44431883306983,
+      "metrics": {
+        "heart_rate": 132
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:06:10",
+      "location": {
+        "latitude": 40.719470980698325,
+        "longitude": -73.99934642183578
+      },
+      "elevation": 35.81220997321055,
+      "metrics": {
+        "heart_rate": 132
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:06:15",
+      "location": {
+        "latitude": 40.719553669480085,
+        "longitude": -73.99924518652708
+      },
+      "elevation": 36.12165712761275,
+      "metrics": {
+        "heart_rate": 133
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:06:20",
+      "location": {
+        "latitude": 40.71962702310369,
+        "longitude": -73.99915852029639
+      },
+      "elevation": 34.003840318169516,
+      "metrics": {
+        "heart_rate": 133
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:06:25",
+      "location": {
+        "latitude": 40.719733399457326,
+        "longitude": -73.99906712117662
+      },
+      "elevation": 31.241857622144785,
+      "metrics": {
+        "heart_rate": 133
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:06:30",
+      "location": {
+        "latitude": 40.71979487667155,
+        "longitude": -73.99897700674416
+      },
+      "elevation": 34.98972321309143,
+      "metrics": {
+        "heart_rate": 134
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:06:35",
+      "location": {
+        "latitude": 40.71991486455234,
+        "longitude": -73.99889094605538
+      },
+      "elevation": 35.67193208906649,
+      "metrics": {
+        "heart_rate": 134
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:06:40",
+      "location": {
+        "latitude": 40.7199850370085,
+        "longitude": -73.99880008624099
+      },
+      "elevation": 36.930605427991175,
+      "metrics": {
+        "heart_rate": 135
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:06:45",
+      "location": {
+        "latitude": 40.720072017117396,
+        "longitude": -73.99871107101222
+      },
+      "elevation": 34.13162241144162,
+      "metrics": {
+        "heart_rate": 135
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:06:50",
+      "location": {
+        "latitude": 40.72018047982079,
+        "longitude": -73.99860569529228
+      },
+      "elevation": 39.07775452803745,
+      "metrics": {
+        "heart_rate": 136
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:06:55",
+      "location": {
+        "latitude": 40.720264952830284,
+        "longitude": -73.99851564373638
+      },
+      "elevation": 37.29973248982271,
+      "metrics": {
+        "heart_rate": 136
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:07:00",
+      "location": {
+        "latitude": 40.72033799147033,
+        "longitude": -73.99841452193313
+      },
+      "elevation": 38.579923893589715,
+      "metrics": {
+        "heart_rate": 136
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:07:05",
+      "location": {
+        "latitude": 40.72044969362111,
+        "longitude": -73.9983287866183
+      },
+      "elevation": 38.91891507543805,
+      "metrics": {
+        "heart_rate": 137
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:07:10",
+      "location": {
+        "latitude": 40.72056788615547,
+        "longitude": -73.99826169665458
+      },
+      "elevation": 36.580715260801774,
+      "metrics": {
+        "heart_rate": 137
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:07:15",
+      "location": {
+        "latitude": 40.72063824168459,
+        "longitude": -73.99817295995956
+      },
+      "elevation": 41.46372324852285,
+      "metrics": {
+        "heart_rate": 138
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:07:20",
+      "location": {
+        "latitude": 40.72072902966966,
+        "longitude": -73.99809517553578
+      },
+      "elevation": 36.60462646735251,
+      "metrics": {
+        "heart_rate": 138
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:07:25",
+      "location": {
+        "latitude": 40.72079565498533,
+        "longitude": -73.99799474745154
+      },
+      "elevation": 38.601805274285354,
+      "metrics": {
+        "heart_rate": 139
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:07:30",
+      "location": {
+        "latitude": 40.720898086202496,
+        "longitude": -73.99790127877725
+      },
+      "elevation": 35.49986442457842,
+      "metrics": {
+        "heart_rate": 139
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:07:35",
+      "location": {
+        "latitude": 40.72099983858632,
+        "longitude": -73.99781405538164
+      },
+      "elevation": 35.08049911697836,
+      "metrics": {
+        "heart_rate": 140
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:07:40",
+      "location": {
+        "latitude": 40.72107932873255,
+        "longitude": -73.99771197407938
+      },
+      "elevation": 42.02566238747723,
+      "metrics": {
+        "heart_rate": 140
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:07:45",
+      "location": {
+        "latitude": 40.72117173373119,
+        "longitude": -73.99762639867093
+      },
+      "elevation": 35.84973477553501,
+      "metrics": {
+        "heart_rate": 140
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:07:50",
+      "location": {
+        "latitude": 40.72126576552075,
+        "longitude": -73.99754890752162
+      },
+      "elevation": 36.02529638229237,
+      "metrics": {
+        "heart_rate": 141
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:07:55",
+      "location": {
+        "latitude": 40.72134945027947,
+        "longitude": -73.99745306393687
+      },
+      "elevation": 38.901013972413445,
+      "metrics": {
+        "heart_rate": 141
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:08:00",
+      "location": {
+        "latitude": 40.721429028794695,
+        "longitude": -73.99735006814947
+      },
+      "elevation": 40.25275763580562,
+      "metrics": {
+        "heart_rate": 142
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:08:05",
+      "location": {
+        "latitude": 40.72152356895802,
+        "longitude": -73.9972605473044
+      },
+      "elevation": 35.27162496652798,
+      "metrics": {
+        "heart_rate": 142
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:08:10",
+      "location": {
+        "latitude": 40.72161280980587,
+        "longitude": -73.99719021831947
+      },
+      "elevation": 34.95969469132789,
+      "metrics": {
+        "heart_rate": 143
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:08:15",
+      "location": {
+        "latitude": 40.72171125875977,
+        "longitude": -73.99708599316104
+      },
+      "elevation": 32.43310877162843,
+      "metrics": {
+        "heart_rate": 143
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:08:20",
+      "location": {
+        "latitude": 40.72180503484078,
+        "longitude": -73.99699289106752
+      },
+      "elevation": 40.210132049669596,
+      "metrics": {
+        "heart_rate": 144
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:08:25",
+      "location": {
+        "latitude": 40.72190273428243,
+        "longitude": -73.9969172355289
+      },
+      "elevation": 37.64422684445614,
+      "metrics": {
+        "heart_rate": 144
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:08:30",
+      "location": {
+        "latitude": 40.72198614764957,
+        "longitude": -73.99681830628144
+      },
+      "elevation": 38.82655213894015,
+      "metrics": {
+        "heart_rate": 144
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:08:35",
+      "location": {
+        "latitude": 40.72208029052979,
+        "longitude": -73.99673363873313
+      },
+      "elevation": 39.879256904034,
+      "metrics": {
+        "heart_rate": 145
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:08:40",
+      "location": {
+        "latitude": 40.72217583451964,
+        "longitude": -73.99663992312377
+      },
+      "elevation": 39.49683954183154,
+      "metrics": {
+        "heart_rate": 145
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:08:45",
+      "location": {
+        "latitude": 40.72225548653784,
+        "longitude": -73.99655763126013
+      },
+      "elevation": 40.06229685580883,
+      "metrics": {
+        "heart_rate": 146
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:08:50",
+      "location": {
+        "latitude": 40.722345131751624,
+        "longitude": -73.99645683313355
+      },
+      "elevation": 38.81071256413673,
+      "metrics": {
+        "heart_rate": 146
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:08:55",
+      "location": {
+        "latitude": 40.72243240020066,
+        "longitude": -73.99637373969031
+      },
+      "elevation": 38.71163144462484,
+      "metrics": {
+        "heart_rate": 147
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:09:00",
+      "location": {
+        "latitude": 40.722535887739255,
+        "longitude": -73.99627361125684
+      },
+      "elevation": 39.073790203990924,
+      "metrics": {
+        "heart_rate": 147
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:09:05",
+      "location": {
+        "latitude": 40.72261651006846,
+        "longitude": -73.99620117305821
+      },
+      "elevation": 38.173106919762844,
+      "metrics": {
+        "heart_rate": 147
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:09:10",
+      "location": {
+        "latitude": 40.722708484351756,
+        "longitude": -73.99609339708483
+      },
+      "elevation": 39.13984743145748,
+      "metrics": {
+        "heart_rate": 148
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:09:15",
+      "location": {
+        "latitude": 40.72278995149979,
+        "longitude": -73.99601323366127
+      },
+      "elevation": 42.42132334988998,
+      "metrics": {
+        "heart_rate": 148
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:09:20",
+      "location": {
+        "latitude": 40.722870854499185,
+        "longitude": -73.99593667843742
+      },
+      "elevation": 34.82607615667945,
+      "metrics": {
+        "heart_rate": 149
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:09:25",
+      "location": {
+        "latitude": 40.72297684574391,
+        "longitude": -73.99583169716158
+      },
+      "elevation": 41.744683741571,
+      "metrics": {
+        "heart_rate": 149
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:09:30",
+      "location": {
+        "latitude": 40.723060056160556,
+        "longitude": -73.99573117983375
+      },
+      "elevation": 40.60790804076699,
+      "metrics": {
+        "heart_rate": 150
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:09:35",
+      "location": {
+        "latitude": 40.72314741334774,
+        "longitude": -73.99564834944277
+      },
+      "elevation": 36.665478505072834,
+      "metrics": {
+        "heart_rate": 150
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:09:40",
+      "location": {
+        "latitude": 40.7232417596918,
+        "longitude": -73.99554316026568
+      },
+      "elevation": 38.349832349928384,
+      "metrics": {
+        "heart_rate": 151
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:09:45",
+      "location": {
+        "latitude": 40.72332215637065,
+        "longitude": -73.99548681994854
+      },
+      "elevation": 36.794048103245245,
+      "metrics": {
+        "heart_rate": 151
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:09:50",
+      "location": {
+        "latitude": 40.723411039752875,
+        "longitude": -73.99536846158097
+      },
+      "elevation": 37.82821509187762,
+      "metrics": {
+        "heart_rate": 151
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:09:55",
+      "location": {
+        "latitude": 40.723524235505515,
+        "longitude": -73.99529527225184
+      },
+      "elevation": 41.078098461763354,
+      "metrics": {
+        "heart_rate": 152
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:10:00",
+      "location": {
+        "latitude": 40.72359756257386,
+        "longitude": -73.9952141994773
+      },
+      "elevation": 40.73944531365251,
+      "metrics": {
+        "heart_rate": 152
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:10:05",
+      "location": {
+        "latitude": 40.72368394920848,
+        "longitude": -73.99511457074715
+      },
+      "elevation": 41.690387979990945,
+      "metrics": {
+        "heart_rate": 153
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:10:10",
+      "location": {
+        "latitude": 40.72378339232163,
+        "longitude": -73.99502797765513
+      },
+      "elevation": 38.658085436978716,
+      "metrics": {
+        "heart_rate": 153
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:10:15",
+      "location": {
+        "latitude": 40.723874339235266,
+        "longitude": -73.99494930479972
+      },
+      "elevation": 40.40931415296084,
+      "metrics": {
+        "heart_rate": 154
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:10:20",
+      "location": {
+        "latitude": 40.723964350284426,
+        "longitude": -73.99485115170312
+      },
+      "elevation": 39.57399876564216,
+      "metrics": {
+        "heart_rate": 154
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:10:25",
+      "location": {
+        "latitude": 40.724056905898586,
+        "longitude": -73.99474608094928
+      },
+      "elevation": 37.97600783150311,
+      "metrics": {
+        "heart_rate": 150
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:10:30",
+      "location": {
+        "latitude": 40.724138428676554,
+        "longitude": -73.99466035788683
+      },
+      "elevation": 38.5790982757988,
+      "metrics": {
+        "heart_rate": 152
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:10:35",
+      "location": {
+        "latitude": 40.72424146057929,
+        "longitude": -73.99457129748163
+      },
+      "elevation": 43.45502494918627,
+      "metrics": {
+        "heart_rate": 151
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:10:40",
+      "location": {
+        "latitude": 40.72433549434968,
+        "longitude": -73.99448401810169
+      },
+      "elevation": 40.357906463058086,
+      "metrics": {
+        "heart_rate": 166
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:10:45",
+      "location": {
+        "latitude": 40.72440465071267,
+        "longitude": -73.99438246866744
+      },
+      "elevation": 39.1764862508064,
+      "metrics": {
+        "heart_rate": 150
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:10:50",
+      "location": {
+        "latitude": 40.72450428786647,
+        "longitude": -73.99429025807655
+      },
+      "elevation": 39.167446743791416,
+      "metrics": {
+        "heart_rate": 154
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:10:55",
+      "location": {
+        "latitude": 40.724581249914856,
+        "longitude": -73.99420211521984
+      },
+      "elevation": 39.48361460616812,
+      "metrics": {
+        "heart_rate": 162
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:11:00",
+      "location": {
+        "latitude": 40.72467854908022,
+        "longitude": -73.99411159746424
+      },
+      "elevation": 37.662738762438956,
+      "metrics": {
+        "heart_rate": 151
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:11:05",
+      "location": {
+        "latitude": 40.72477030735446,
+        "longitude": -73.99403349462477
+      },
+      "elevation": 44.852672551473624,
+      "metrics": {
+        "heart_rate": 153
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:11:10",
+      "location": {
+        "latitude": 40.72486746958483,
+        "longitude": -73.99392571757552
+      },
+      "elevation": 41.958888206139385,
+      "metrics": {
+        "heart_rate": 147
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:11:15",
+      "location": {
+        "latitude": 40.72494156475805,
+        "longitude": -73.99386768077092
+      },
+      "elevation": 41.21893277816069,
+      "metrics": {
+        "heart_rate": 161
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:11:20",
+      "location": {
+        "latitude": 40.72505790531019,
+        "longitude": -73.99376399769535
+      },
+      "elevation": 39.61234887422132,
+      "metrics": {
+        "heart_rate": 146
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:11:25",
+      "location": {
+        "latitude": 40.72511353015426,
+        "longitude": -73.99367193940614
+      },
+      "elevation": 42.80071639368766,
+      "metrics": {
+        "heart_rate": 163
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:11:30",
+      "location": {
+        "latitude": 40.725234548445194,
+        "longitude": -73.99358244151263
+      },
+      "elevation": 39.12664007644859,
+      "metrics": {
+        "heart_rate": 147
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:11:35",
+      "location": {
+        "latitude": 40.72530373478663,
+        "longitude": -73.9934644651502
+      },
+      "elevation": 38.358674029127286,
+      "metrics": {
+        "heart_rate": 154
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:11:40",
+      "location": {
+        "latitude": 40.725408858154665,
+        "longitude": -73.99340473035917
+      },
+      "elevation": 40.565268785784326,
+      "metrics": {
+        "heart_rate": 147
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:11:45",
+      "location": {
+        "latitude": 40.72548711713639,
+        "longitude": -73.99330441215722
+      },
+      "elevation": 40.408501138795955,
+      "metrics": {
+        "heart_rate": 159
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:11:50",
+      "location": {
+        "latitude": 40.72555801024103,
+        "longitude": -73.99322030402948
+      },
+      "elevation": 42.50091234152072,
+      "metrics": {
+        "heart_rate": 151
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:11:55",
+      "location": {
+        "latitude": 40.72566666012169,
+        "longitude": -73.9931276542192
+      },
+      "elevation": 40.38104395017155,
+      "metrics": {
+        "heart_rate": 165
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:12:00",
+      "location": {
+        "latitude": 40.725772158547706,
+        "longitude": -73.99304244997296
+      },
+      "elevation": 41.435502721908634,
+      "metrics": {
+        "heart_rate": 157
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:12:05",
+      "location": {
+        "latitude": 40.725860392017395,
+        "longitude": -73.99294997950877
+      },
+      "elevation": 34.56210010054278,
+      "metrics": {
+        "heart_rate": 136
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:12:10",
+      "location": {
+        "latitude": 40.72594883821358,
+        "longitude": -73.9928646111265
+      },
+      "elevation": 40.06231158000471,
+      "metrics": {
+        "heart_rate": 170
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:12:15",
+      "location": {
+        "latitude": 40.72603011855069,
+        "longitude": -73.99275609598962
+      },
+      "elevation": 36.82626442377108,
+      "metrics": {
+        "heart_rate": 140
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:12:20",
+      "location": {
+        "latitude": 40.72612511601521,
+        "longitude": -73.99267599290978
+      },
+      "elevation": 38.365478355984585,
+      "metrics": {
+        "heart_rate": 152
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:12:25",
+      "location": {
+        "latitude": 40.72621121041134,
+        "longitude": -73.99258586415625
+      },
+      "elevation": 39.236749172661504,
+      "metrics": {
+        "heart_rate": 147
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:12:30",
+      "location": {
+        "latitude": 40.726291166270876,
+        "longitude": -73.99250124726555
+      },
+      "elevation": 40.1315171141043,
+      "metrics": {
+        "heart_rate": 140
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:12:35",
+      "location": {
+        "latitude": 40.726403845275115,
+        "longitude": -73.99242732519784
+      },
+      "elevation": 33.30702770769463,
+      "metrics": {
+        "heart_rate": 154
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:12:40",
+      "location": {
+        "latitude": 40.72647675153737,
+        "longitude": -73.99230463292137
+      },
+      "elevation": 40.30106073169529,
+      "metrics": {
+        "heart_rate": 149
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:12:45",
+      "location": {
+        "latitude": 40.7265629927397,
+        "longitude": -73.99224567541644
+      },
+      "elevation": 38.50118694115046,
+      "metrics": {
+        "heart_rate": 165
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:12:50",
+      "location": {
+        "latitude": 40.72666279813539,
+        "longitude": -73.99212178905273
+      },
+      "elevation": 35.50552744275788,
+      "metrics": {
+        "heart_rate": 150
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:12:55",
+      "location": {
+        "latitude": 40.72675835447885,
+        "longitude": -73.99203057660822
+      },
+      "elevation": 37.43529040412302,
+      "metrics": {
+        "heart_rate": 156
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:13:00",
+      "location": {
+        "latitude": 40.72684468823215,
+        "longitude": -73.99195579247511
+      },
+      "elevation": 36.908944821128195,
+      "metrics": {
+        "heart_rate": 159
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:13:05",
+      "location": {
+        "latitude": 40.72693701104719,
+        "longitude": -73.99186097159071
+      },
+      "elevation": 37.40507762941213,
+      "metrics": {
+        "heart_rate": 158
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:13:10",
+      "location": {
+        "latitude": 40.72700684522097,
+        "longitude": -73.99177683046486
+      },
+      "elevation": 36.93937815312782,
+      "metrics": {
+        "heart_rate": 160
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:13:15",
+      "location": {
+        "latitude": 40.72710380360379,
+        "longitude": -73.99169026393545
+      },
+      "elevation": 36.424626596759104,
+      "metrics": {
+        "heart_rate": 159
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:13:20",
+      "location": {
+        "latitude": 40.72720292039347,
+        "longitude": -73.99160586094789
+      },
+      "elevation": 39.38386925265813,
+      "metrics": {
+        "heart_rate": 153
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:13:25",
+      "location": {
+        "latitude": 40.727273760122074,
+        "longitude": -73.99150193664079
+      },
+      "elevation": 40.54872104725943,
+      "metrics": {
+        "heart_rate": 151
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:13:30",
+      "location": {
+        "latitude": 40.72737413116922,
+        "longitude": -73.99141952519673
+      },
+      "elevation": 38.10555137719377,
+      "metrics": {
+        "heart_rate": 139
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:13:35",
+      "location": {
+        "latitude": 40.727459385138765,
+        "longitude": -73.99134224116617
+      },
+      "elevation": 36.675342707771456,
+      "metrics": {
+        "heart_rate": 144
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:13:40",
+      "location": {
+        "latitude": 40.7275609427478,
+        "longitude": -73.99125729220847
+      },
+      "elevation": 34.318797302631495,
+      "metrics": {
+        "heart_rate": 161
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:13:45",
+      "location": {
+        "latitude": 40.72765233677844,
+        "longitude": -73.99115748570175
+      },
+      "elevation": 36.06502993999871,
+      "metrics": {
+        "heart_rate": 168
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:13:50",
+      "location": {
+        "latitude": 40.72773712292295,
+        "longitude": -73.99105731764111
+      },
+      "elevation": 36.598363513926536,
+      "metrics": {
+        "heart_rate": 152
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:13:55",
+      "location": {
+        "latitude": 40.727838759665595,
+        "longitude": -73.99095323756606
+      },
+      "elevation": 36.507460832393036,
+      "metrics": {
+        "heart_rate": 158
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:14:00",
+      "location": {
+        "latitude": 40.72792976594552,
+        "longitude": -73.99089109193022
+      },
+      "elevation": 34.38648654057818,
+      "metrics": {
+        "heart_rate": 165
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:14:05",
+      "location": {
+        "latitude": 40.72802551855892,
+        "longitude": -73.99079795831024
+      },
+      "elevation": 35.37832391241099,
+      "metrics": {
+        "heart_rate": 151
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:14:10",
+      "location": {
+        "latitude": 40.72810174712283,
+        "longitude": -73.99069267044271
+      },
+      "elevation": 34.94511438190543,
+      "metrics": {
+        "heart_rate": 151
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:14:15",
+      "location": {
+        "latitude": 40.728187637098046,
+        "longitude": -73.99059941860449
+      },
+      "elevation": 37.026146547629196,
+      "metrics": {
+        "heart_rate": 149
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:14:20",
+      "location": {
+        "latitude": 40.72828375795641,
+        "longitude": -73.99052068212679
+      },
+      "elevation": 36.98958827500838,
+      "metrics": {
+        "heart_rate": 138
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:14:25",
+      "location": {
+        "latitude": 40.728358026303916,
+        "longitude": -73.99043633128755
+      },
+      "elevation": 31.727790490632174,
+      "metrics": {
+        "heart_rate": 160
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:14:30",
+      "location": {
+        "latitude": 40.728437739123216,
+        "longitude": -73.99033854345846
+      },
+      "elevation": 34.59413069414698,
+      "metrics": {
+        "heart_rate": 149
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:14:35",
+      "location": {
+        "latitude": 40.72854701766583,
+        "longitude": -73.99024673484229
+      },
+      "elevation": 30.18148468395448,
+      "metrics": {
+        "heart_rate": 152
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:14:40",
+      "location": {
+        "latitude": 40.72863984604206,
+        "longitude": -73.99015829360012
+      },
+      "elevation": 35.14006972683925,
+      "metrics": {
+        "heart_rate": 145
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:14:45",
+      "location": {
+        "latitude": 40.728714926838364,
+        "longitude": -73.99007419110703
+      },
+      "elevation": 35.07588440705209,
+      "metrics": {
+        "heart_rate": 142
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:14:50",
+      "location": {
+        "latitude": 40.72884002897356,
+        "longitude": -73.98997180666923
+      },
+      "elevation": 34.484541132806726,
+      "metrics": {
+        "heart_rate": 155
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:14:55",
+      "location": {
+        "latitude": 40.72891700216343,
+        "longitude": -73.98988380937483
+      },
+      "elevation": 32.54185533097944,
+      "metrics": {
+        "heart_rate": 165
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:15:00",
+      "location": {
+        "latitude": 40.72898835351566,
+        "longitude": -73.98979735634276
+      },
+      "elevation": 34.69142916861683,
+      "metrics": {
+        "heart_rate": 139
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:15:05",
+      "location": {
+        "latitude": 40.729078606870765,
+        "longitude": -73.98971361552186
+      },
+      "elevation": 31.73067048159299,
+      "metrics": {
+        "heart_rate": 155
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:15:10",
+      "location": {
+        "latitude": 40.729175493192166,
+        "longitude": -73.9896282940325
+      },
+      "elevation": 30.041825271457874,
+      "metrics": {
+        "heart_rate": 166
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:15:15",
+      "location": {
+        "latitude": 40.72925720076218,
+        "longitude": -73.98952691257838
+      },
+      "elevation": 32.9149842582459,
+      "metrics": {
+        "heart_rate": 152
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:15:20",
+      "location": {
+        "latitude": 40.72935801356319,
+        "longitude": -73.98943377544005
+      },
+      "elevation": 32.90542709728205,
+      "metrics": {
+        "heart_rate": 151
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:15:25",
+      "location": {
+        "latitude": 40.72945744993822,
+        "longitude": -73.98933899166833
+      },
+      "elevation": 31.706866821257826,
+      "metrics": {
+        "heart_rate": 147
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:15:30",
+      "location": {
+        "latitude": 40.729532867710354,
+        "longitude": -73.98926270269837
+      },
+      "elevation": 29.365182252444185,
+      "metrics": {
+        "heart_rate": 151
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:15:35",
+      "location": {
+        "latitude": 40.72964094698418,
+        "longitude": -73.98917673304695
+      },
+      "elevation": 30.162613085811447,
+      "metrics": {
+        "heart_rate": 151
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:15:40",
+      "location": {
+        "latitude": 40.7297208226346,
+        "longitude": -73.98907147614425
+      },
+      "elevation": 32.47897558036744,
+      "metrics": {
+        "heart_rate": 152
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:15:45",
+      "location": {
+        "latitude": 40.72980583415078,
+        "longitude": -73.98898723233692
+      },
+      "elevation": 26.79318794691061,
+      "metrics": {
+        "heart_rate": 148
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:15:50",
+      "location": {
+        "latitude": 40.729887413269495,
+        "longitude": -73.98890762460297
+      },
+      "elevation": 30.058484772257163,
+      "metrics": {
+        "heart_rate": 147
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:15:55",
+      "location": {
+        "latitude": 40.73000245940727,
+        "longitude": -73.98881315186549
+      },
+      "elevation": 27.917509473922593,
+      "metrics": {
+        "heart_rate": 163
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:16:00",
+      "location": {
+        "latitude": 40.73006501687247,
+        "longitude": -73.98870629880957
+      },
+      "elevation": 33.17737125352399,
+      "metrics": {
+        "heart_rate": 144
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:16:05",
+      "location": {
+        "latitude": 40.73018900806054,
+        "longitude": -73.98863652384145
+      },
+      "elevation": 32.595919272460996,
+      "metrics": {
+        "heart_rate": 143
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:16:10",
+      "location": {
+        "latitude": 40.73027358140384,
+        "longitude": -73.98854802918359
+      },
+      "elevation": 27.889923485702013,
+      "metrics": {
+        "heart_rate": 156
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:16:15",
+      "location": {
+        "latitude": 40.73036012554778,
+        "longitude": -73.98844298042305
+      },
+      "elevation": 28.457234537174795,
+      "metrics": {
+        "heart_rate": 145
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:16:20",
+      "location": {
+        "latitude": 40.73044500340052,
+        "longitude": -73.98837166157229
+      },
+      "elevation": 30.940133210375446,
+      "metrics": {
+        "heart_rate": 168
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:16:25",
+      "location": {
+        "latitude": 40.73053949427209,
+        "longitude": -73.9882626297781
+      },
+      "elevation": 30.12687753050543,
+      "metrics": {
+        "heart_rate": 147
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:16:30",
+      "location": {
+        "latitude": 40.73061164663313,
+        "longitude": -73.98817162707552
+      },
+      "elevation": 29.0706529469699,
+      "metrics": {
+        "heart_rate": 138
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:16:35",
+      "location": {
+        "latitude": 40.73070072545532,
+        "longitude": -73.9880702159945
+      },
+      "elevation": 27.390637360481012,
+      "metrics": {
+        "heart_rate": 151
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:16:40",
+      "location": {
+        "latitude": 40.73078990854675,
+        "longitude": -73.98798755119466
+      },
+      "elevation": 25.607262485116244,
+      "metrics": {
+        "heart_rate": 150
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:16:45",
+      "location": {
+        "latitude": 40.730890029529846,
+        "longitude": -73.98791204192848
+      },
+      "elevation": 25.753836235595394,
+      "metrics": {
+        "heart_rate": 166
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:16:50",
+      "location": {
+        "latitude": 40.730989826217666,
+        "longitude": -73.98782440969617
+      },
+      "elevation": 30.624511827279008,
+      "metrics": {
+        "heart_rate": 160
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:16:55",
+      "location": {
+        "latitude": 40.73108268721234,
+        "longitude": -73.98772355100594
+      },
+      "elevation": 27.855506114051533,
+      "metrics": {
+        "heart_rate": 136
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:17:00",
+      "location": {
+        "latitude": 40.73116372273523,
+        "longitude": -73.98763744060278
+      },
+      "elevation": 26.422408003862138,
+      "metrics": {
+        "heart_rate": 153
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:17:05",
+      "location": {
+        "latitude": 40.7312541349917,
+        "longitude": -73.9875656465321
+      },
+      "elevation": 24.658805321754475,
+      "metrics": {
+        "heart_rate": 149
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:17:10",
+      "location": {
+        "latitude": 40.731353071506284,
+        "longitude": -73.98746201391673
+      },
+      "elevation": 31.15930867488938,
+      "metrics": {
+        "heart_rate": 157
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:17:15",
+      "location": {
+        "latitude": 40.73145382894471,
+        "longitude": -73.98736532238111
+      },
+      "elevation": 24.067263659570195,
+      "metrics": {
+        "heart_rate": 146
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:17:20",
+      "location": {
+        "latitude": 40.731517601870586,
+        "longitude": -73.98728535666605
+      },
+      "elevation": 28.51968262255715,
+      "metrics": {
+        "heart_rate": 151
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:17:25",
+      "location": {
+        "latitude": 40.73160304934647,
+        "longitude": -73.98718466807597
+      },
+      "elevation": 22.413306968959873,
+      "metrics": {
+        "heart_rate": 154
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:17:30",
+      "location": {
+        "latitude": 40.73170622889026,
+        "longitude": -73.98709789389521
+      },
+      "elevation": 25.103567663081943,
+      "metrics": {
+        "heart_rate": 157
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:17:35",
+      "location": {
+        "latitude": 40.731764287903495,
+        "longitude": -73.9870143798488
+      },
+      "elevation": 19.955155623729155,
+      "metrics": {
+        "heart_rate": 149
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:17:40",
+      "location": {
+        "latitude": 40.73188901306187,
+        "longitude": -73.98692754600684
+      },
+      "elevation": 24.836347115794513,
+      "metrics": {
+        "heart_rate": 147
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:17:45",
+      "location": {
+        "latitude": 40.73196727573286,
+        "longitude": -73.98684231601523
+      },
+      "elevation": 25.675629015522883,
+      "metrics": {
+        "heart_rate": 145
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:17:50",
+      "location": {
+        "latitude": 40.732068872165016,
+        "longitude": -73.98673836891372
+      },
+      "elevation": 24.898580654533028,
+      "metrics": {
+        "heart_rate": 162
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:17:55",
+      "location": {
+        "latitude": 40.73214955924481,
+        "longitude": -73.98663662055178
+      },
+      "elevation": 16.652971374630308,
+      "metrics": {
+        "heart_rate": 159
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:18:00",
+      "location": {
+        "latitude": 40.73223515063633,
+        "longitude": -73.98655741972034
+      },
+      "elevation": 22.24474897082726,
+      "metrics": {
+        "heart_rate": 155
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:18:05",
+      "location": {
+        "latitude": 40.73230409599576,
+        "longitude": -73.98647096076671
+      },
+      "elevation": 21.876252718459178,
+      "metrics": {
+        "heart_rate": 160
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:18:10",
+      "location": {
+        "latitude": 40.732419703458035,
+        "longitude": -73.98638639899738
+      },
+      "elevation": 22.840320841396935,
+      "metrics": {
+        "heart_rate": 153
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:18:15",
+      "location": {
+        "latitude": 40.73251225165735,
+        "longitude": -73.98629815561445
+      },
+      "elevation": 21.52276753874702,
+      "metrics": {
+        "heart_rate": 151
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:18:20",
+      "location": {
+        "latitude": 40.73260450506608,
+        "longitude": -73.98620990156611
+      },
+      "elevation": 21.610868025766997,
+      "metrics": {
+        "heart_rate": 151
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:18:25",
+      "location": {
+        "latitude": 40.73268694368057,
+        "longitude": -73.98609704807201
+      },
+      "elevation": 19.622001731844787,
+      "metrics": {
+        "heart_rate": 147
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:18:30",
+      "location": {
+        "latitude": 40.73278235045918,
+        "longitude": -73.98602628351092
+      },
+      "elevation": 22.278484481244373,
+      "metrics": {
+        "heart_rate": 154
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:18:35",
+      "location": {
+        "latitude": 40.73288451705263,
+        "longitude": -73.98593044606235
+      },
+      "elevation": 22.998976520705156,
+      "metrics": {
+        "heart_rate": 165
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:18:40",
+      "location": {
+        "latitude": 40.73296250795016,
+        "longitude": -73.98583371846024
+      },
+      "elevation": 19.57280544533449,
+      "metrics": {
+        "heart_rate": 143
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:18:45",
+      "location": {
+        "latitude": 40.73304220405043,
+        "longitude": -73.98573311616367
+      },
+      "elevation": 18.90576611638072,
+      "metrics": {
+        "heart_rate": 158
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:18:50",
+      "location": {
+        "latitude": 40.73314385200163,
+        "longitude": -73.98565696030342
+      },
+      "elevation": 18.285641632893945,
+      "metrics": {
+        "heart_rate": 145
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:18:55",
+      "location": {
+        "latitude": 40.73324007994724,
+        "longitude": -73.98557430854318
+      },
+      "elevation": 19.751748896209197,
+      "metrics": {
+        "heart_rate": 168
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:19:00",
+      "location": {
+        "latitude": 40.73334019848301,
+        "longitude": -73.98547646842118
+      },
+      "elevation": 14.997831354705571,
+      "metrics": {
+        "heart_rate": 152
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:19:05",
+      "location": {
+        "latitude": 40.7334257630653,
+        "longitude": -73.98538132481332
+      },
+      "elevation": 16.869687519712027,
+      "metrics": {
+        "heart_rate": 144
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:19:10",
+      "location": {
+        "latitude": 40.73349016015177,
+        "longitude": -73.98529436721924
+      },
+      "elevation": 14.36739710919498,
+      "metrics": {
+        "heart_rate": 146
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:19:15",
+      "location": {
+        "latitude": 40.733576314257476,
+        "longitude": -73.98522350411909
+      },
+      "elevation": 16.45591936675133,
+      "metrics": {
+        "heart_rate": 140
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:19:20",
+      "location": {
+        "latitude": 40.733684458598866,
+        "longitude": -73.98511769785783
+      },
+      "elevation": 18.496323340383793,
+      "metrics": {
+        "heart_rate": 144
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:19:25",
+      "location": {
+        "latitude": 40.73375299082641,
+        "longitude": -73.98501909062527
+      },
+      "elevation": 15.058041370468592,
+      "metrics": {
+        "heart_rate": 157
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:19:30",
+      "location": {
+        "latitude": 40.733869544917006,
+        "longitude": -73.98492447235512
+      },
+      "elevation": 16.153606061690333,
+      "metrics": {
+        "heart_rate": 154
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:19:35",
+      "location": {
+        "latitude": 40.73394943706322,
+        "longitude": -73.98484597442052
+      },
+      "elevation": 18.26191518825138,
+      "metrics": {
+        "heart_rate": 168
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:19:40",
+      "location": {
+        "latitude": 40.73402657991401,
+        "longitude": -73.98475305146766
+      },
+      "elevation": 15.796985483192298,
+      "metrics": {
+        "heart_rate": 156
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:19:45",
+      "location": {
+        "latitude": 40.734136199543464,
+        "longitude": -73.98466505071936
+      },
+      "elevation": 12.918697535423277,
+      "metrics": {
+        "heart_rate": 156
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:19:50",
+      "location": {
+        "latitude": 40.734209697942866,
+        "longitude": -73.98459248820828
+      },
+      "elevation": 15.019927359736702,
+      "metrics": {
+        "heart_rate": 149
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:19:55",
+      "location": {
+        "latitude": 40.73431598128186,
+        "longitude": -73.98448957886998
+      },
+      "elevation": 14.905240809599361,
+      "metrics": {
+        "heart_rate": 153
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:20:00",
+      "location": {
+        "latitude": 40.734391801634985,
+        "longitude": -73.98439474299333
+      },
+      "elevation": 11.575533272474932,
+      "metrics": {
+        "heart_rate": 172
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:20:05",
+      "location": {
+        "latitude": 40.734471674341385,
+        "longitude": -73.98429806281237
+      },
+      "elevation": 14.13516690937061,
+      "metrics": {
+        "heart_rate": 152
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:20:10",
+      "location": {
+        "latitude": 40.73458076160626,
+        "longitude": -73.98421780588198
+      },
+      "elevation": 10.100181747203276,
+      "metrics": {
+        "heart_rate": 167
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:20:15",
+      "location": {
+        "latitude": 40.73466939664151,
+        "longitude": -73.98413707715827
+      },
+      "elevation": 15.750857615769215,
+      "metrics": {
+        "heart_rate": 159
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:20:20",
+      "location": {
+        "latitude": 40.73475639662491,
+        "longitude": -73.98403059676912
+      },
+      "elevation": 11.878315223000842,
+      "metrics": {
+        "heart_rate": 158
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:20:25",
+      "location": {
+        "latitude": 40.73485396003774,
+        "longitude": -73.98395028391381
+      },
+      "elevation": 12.323292056021732,
+      "metrics": {
+        "heart_rate": 163
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:20:30",
+      "location": {
+        "latitude": 40.73494031556899,
+        "longitude": -73.98386504024597
+      },
+      "elevation": 15.059931239446609,
+      "metrics": {
+        "heart_rate": 148
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:20:35",
+      "location": {
+        "latitude": 40.73503538404223,
+        "longitude": -73.98376887265793
+      },
+      "elevation": 13.0879919765204,
+      "metrics": {
+        "heart_rate": 151
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:20:40",
+      "location": {
+        "latitude": 40.73512072062934,
+        "longitude": -73.98366508764319
+      },
+      "elevation": 12.455109299561888,
+      "metrics": {
+        "heart_rate": 153
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:20:45",
+      "location": {
+        "latitude": 40.73518916074216,
+        "longitude": -73.98359930779637
+      },
+      "elevation": 10.395172693593684,
+      "metrics": {
+        "heart_rate": 152
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:20:50",
+      "location": {
+        "latitude": 40.735301143735654,
+        "longitude": -73.98350354268592
+      },
+      "elevation": 6.794796626062566,
+      "metrics": {
+        "heart_rate": 151
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:20:55",
+      "location": {
+        "latitude": 40.735382299285206,
+        "longitude": -73.98342122377126
+      },
+      "elevation": 8.306842414982745,
+      "metrics": {
+        "heart_rate": 165
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:21:00",
+      "location": {
+        "latitude": 40.73547214420177,
+        "longitude": -73.9833194373533
+      },
+      "elevation": 10.691602416414213,
+      "metrics": {
+        "heart_rate": 158
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:21:05",
+      "location": {
+        "latitude": 40.73557490504463,
+        "longitude": -73.98321428098919
+      },
+      "elevation": 11.620425559081282,
+      "metrics": {
+        "heart_rate": 157
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:21:10",
+      "location": {
+        "latitude": 40.73565164191824,
+        "longitude": -73.98314732301259
+      },
+      "elevation": 8.38582105336007,
+      "metrics": {
+        "heart_rate": 154
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:21:15",
+      "location": {
+        "latitude": 40.73575775346422,
+        "longitude": -73.98303479134017
+      },
+      "elevation": 10.559431291122873,
+      "metrics": {
+        "heart_rate": 140
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:21:20",
+      "location": {
+        "latitude": 40.73584575720334,
+        "longitude": -73.98296278723106
+      },
+      "elevation": 6.188857965922445,
+      "metrics": {
+        "heart_rate": 147
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:21:25",
+      "location": {
+        "latitude": 40.73594378443065,
+        "longitude": -73.98286198009073
+      },
+      "elevation": 9.07114108232607,
+      "metrics": {
+        "heart_rate": 154
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:21:30",
+      "location": {
+        "latitude": 40.73602353688759,
+        "longitude": -73.98277126738266
+      },
+      "elevation": 5.850687462926775,
+      "metrics": {
+        "heart_rate": 149
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:21:35",
+      "location": {
+        "latitude": 40.73609128368468,
+        "longitude": -73.98271094484679
+      },
+      "elevation": 8.725885081567494,
+      "metrics": {
+        "heart_rate": 156
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:21:40",
+      "location": {
+        "latitude": 40.73619023299694,
+        "longitude": -73.98258781734471
+      },
+      "elevation": 5.945263655457391,
+      "metrics": {
+        "heart_rate": 138
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:21:45",
+      "location": {
+        "latitude": 40.736297739990505,
+        "longitude": -73.98249267899179
+      },
+      "elevation": 3.6477864917193954,
+      "metrics": {
+        "heart_rate": 151
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:21:50",
+      "location": {
+        "latitude": 40.73640043129112,
+        "longitude": -73.98242130944483
+      },
+      "elevation": 5.578499610662363,
+      "metrics": {
+        "heart_rate": 150
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:21:55",
+      "location": {
+        "latitude": 40.73649281581401,
+        "longitude": -73.9823117219376
+      },
+      "elevation": 3.869053913532006,
+      "metrics": {
+        "heart_rate": 154
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:22:00",
+      "location": {
+        "latitude": 40.73656740701615,
+        "longitude": -73.98224363149042
+      },
+      "elevation": 6.4702110022428885,
+      "metrics": {
+        "heart_rate": 141
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:22:05",
+      "location": {
+        "latitude": 40.73665882803796,
+        "longitude": -73.98215529227926
+      },
+      "elevation": 5.852249316731746,
+      "metrics": {
+        "heart_rate": 152
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:22:10",
+      "location": {
+        "latitude": 40.73674638528551,
+        "longitude": -73.9820472357519
+      },
+      "elevation": 4.109813728603717,
+      "metrics": {
+        "heart_rate": 158
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:22:15",
+      "location": {
+        "latitude": 40.736835706754455,
+        "longitude": -73.98198033147415
+      },
+      "elevation": 0.37300616957369703,
+      "metrics": {
+        "heart_rate": 145
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:22:20",
+      "location": {
+        "latitude": 40.73691879156798,
+        "longitude": -73.98188434996233
+      },
+      "elevation": 3.258632179827882,
+      "metrics": {
+        "heart_rate": 151
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:22:25",
+      "location": {
+        "latitude": 40.73699960287447,
+        "longitude": -73.98178095357456
+      },
+      "elevation": 5.4665454467227885,
+      "metrics": {
+        "heart_rate": 179
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:22:30",
+      "location": {
+        "latitude": 40.73711660196762,
+        "longitude": -73.98170239628242
+      },
+      "elevation": 2.9483203033052487,
+      "metrics": {
+        "heart_rate": 142
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:22:35",
+      "location": {
+        "latitude": 40.73719073418863,
+        "longitude": -73.98159458448332
+      },
+      "elevation": -0.9706255467487499,
+      "metrics": {
+        "heart_rate": 158
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:22:40",
+      "location": {
+        "latitude": 40.737275724885485,
+        "longitude": -73.9815021321036
+      },
+      "elevation": 3.3007603477681213,
+      "metrics": {
+        "heart_rate": 176
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:22:45",
+      "location": {
+        "latitude": 40.73736752428012,
+        "longitude": -73.98143422662532
+      },
+      "elevation": -0.02934178510373453,
+      "metrics": {
+        "heart_rate": 148
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:22:50",
+      "location": {
+        "latitude": 40.73745936765227,
+        "longitude": -73.98133622038351
+      },
+      "elevation": -0.4285672530952185,
+      "metrics": {
+        "heart_rate": 163
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:22:55",
+      "location": {
+        "latitude": 40.73755414766775,
+        "longitude": -73.98125048671999
+      },
+      "elevation": 2.317709807202147,
+      "metrics": {
+        "heart_rate": 154
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:23:00",
+      "location": {
+        "latitude": 40.737655626985884,
+        "longitude": -73.98116013828415
+      },
+      "elevation": -3.898085252763261,
+      "metrics": {
+        "heart_rate": 155
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:23:05",
+      "location": {
+        "latitude": 40.73772843806032,
+        "longitude": -73.98106617648693
+      },
+      "elevation": 1.2272199552036183,
+      "metrics": {
+        "heart_rate": 155
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:23:10",
+      "location": {
+        "latitude": 40.73782916895092,
+        "longitude": -73.98097506644112
+      },
+      "elevation": 2.4210609849627134,
+      "metrics": {
+        "heart_rate": 144
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:23:15",
+      "location": {
+        "latitude": 40.737895507330634,
+        "longitude": -73.98088919017142
+      },
+      "elevation": -2.642833058459334,
+      "metrics": {
+        "heart_rate": 146
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:23:20",
+      "location": {
+        "latitude": 40.73801057028235,
+        "longitude": -73.98078798522367
+      },
+      "elevation": -0.9100458154188107,
+      "metrics": {
+        "heart_rate": 157
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:23:25",
+      "location": {
+        "latitude": 40.73809010592269,
+        "longitude": -73.98071736104045
+      },
+      "elevation": -3.7946668640395482,
+      "metrics": {
+        "heart_rate": 167
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:23:30",
+      "location": {
+        "latitude": 40.738169214498775,
+        "longitude": -73.98060863716738
+      },
+      "elevation": -5.886951740557508,
+      "metrics": {
+        "heart_rate": 165
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:23:35",
+      "location": {
+        "latitude": 40.73826352468888,
+        "longitude": -73.98052088501092
+      },
+      "elevation": -0.5178984364326467,
+      "metrics": {
+        "heart_rate": 154
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:23:40",
+      "location": {
+        "latitude": 40.738349975141276,
+        "longitude": -73.98044857490632
+      },
+      "elevation": -2.626921846712703,
+      "metrics": {
+        "heart_rate": 147
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:23:45",
+      "location": {
+        "latitude": 40.73846148965438,
+        "longitude": -73.98033370590834
+      },
+      "elevation": -3.5243445952160903,
+      "metrics": {
+        "heart_rate": 167
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:23:50",
+      "location": {
+        "latitude": 40.738536997426515,
+        "longitude": -73.9802673436685
+      },
+      "elevation": -0.6430944700450678,
+      "metrics": {
+        "heart_rate": 153
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:23:55",
+      "location": {
+        "latitude": 40.738626736734204,
+        "longitude": -73.98017578560197
+      },
+      "elevation": -7.758613431136089,
+      "metrics": {
+        "heart_rate": 165
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:24:00",
+      "location": {
+        "latitude": 40.73872362403598,
+        "longitude": -73.9800860873268
+      },
+      "elevation": -2.1334882625650162,
+      "metrics": {
+        "heart_rate": 180
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:24:05",
+      "location": {
+        "latitude": 40.738800238138516,
+        "longitude": -73.97998339006728
+      },
+      "elevation": -2.45399007350588,
+      "metrics": {
+        "heart_rate": 154
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:24:10",
+      "location": {
+        "latitude": 40.73889788913502,
+        "longitude": -73.97989790833063
+      },
+      "elevation": -0.21859764071385612,
+      "metrics": {
+        "heart_rate": 149
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:24:15",
+      "location": {
+        "latitude": 40.739000299244644,
+        "longitude": -73.97980098774453
+      },
+      "elevation": -4.5022444678868245,
+      "metrics": {
+        "heart_rate": 158
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:24:20",
+      "location": {
+        "latitude": 40.73909030864954,
+        "longitude": -73.97972540782585
+      },
+      "elevation": -7.242071718240064,
+      "metrics": {
+        "heart_rate": 145
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:24:25",
+      "location": {
+        "latitude": 40.73917195170436,
+        "longitude": -73.97961857467789
+      },
+      "elevation": -5.575743840816084,
+      "metrics": {
+        "heart_rate": 149
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:24:30",
+      "location": {
+        "latitude": 40.73925448126619,
+        "longitude": -73.97954889178497
+      },
+      "elevation": -7.2495931145302,
+      "metrics": {
+        "heart_rate": 162
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:24:35",
+      "location": {
+        "latitude": 40.73934585676827,
+        "longitude": -73.97945130147093
+      },
+      "elevation": -4.673064380139461,
+      "metrics": {
+        "heart_rate": 146
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:24:40",
+      "location": {
+        "latitude": 40.73943087117927,
+        "longitude": -73.97937035573807
+      },
+      "elevation": -10.297232686745165,
+      "metrics": {
+        "heart_rate": 161
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:24:45",
+      "location": {
+        "latitude": 40.739536258030924,
+        "longitude": -73.97926849997702
+      },
+      "elevation": -8.017752425172626,
+      "metrics": {
+        "heart_rate": 150
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:24:50",
+      "location": {
+        "latitude": 40.739617291442094,
+        "longitude": -73.97917012205275
+      },
+      "elevation": -8.220035430570082,
+      "metrics": {
+        "heart_rate": 166
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:24:55",
+      "location": {
+        "latitude": 40.73972836570204,
+        "longitude": -73.97908806245572
+      },
+      "elevation": -7.3069692210421175,
+      "metrics": {
+        "heart_rate": 149
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:25:00",
+      "location": {
+        "latitude": 40.73979457070744,
+        "longitude": -73.97900438569063
+      },
+      "elevation": -9.30174564729681,
+      "metrics": {
+        "heart_rate": 164
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:25:05",
+      "location": {
+        "latitude": 40.73988806860547,
+        "longitude": -73.97892173239728
+      },
+      "elevation": -5.402057051844322,
+      "metrics": {
+        "heart_rate": 157
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:25:10",
+      "location": {
+        "latitude": 40.73998643598749,
+        "longitude": -73.97883591967542
+      },
+      "elevation": -7.758592173680324,
+      "metrics": {
+        "heart_rate": 175
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:25:15",
+      "location": {
+        "latitude": 40.74005226951186,
+        "longitude": -73.97872912522607
+      },
+      "elevation": -11.365337623844091,
+      "metrics": {
+        "heart_rate": 162
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:25:20",
+      "location": {
+        "latitude": 40.74016313920157,
+        "longitude": -73.97864409071317
+      },
+      "elevation": -5.127792357212641,
+      "metrics": {
+        "heart_rate": 145
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:25:25",
+      "location": {
+        "latitude": 40.74022394457909,
+        "longitude": -73.97856278838454
+      },
+      "elevation": -10.926668956738391,
+      "metrics": {
+        "heart_rate": 154
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:25:30",
+      "location": {
+        "latitude": 40.74034149688519,
+        "longitude": -73.97846065876068
+      },
+      "elevation": -9.95205656244199,
+      "metrics": {
+        "heart_rate": 159
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:25:35",
+      "location": {
+        "latitude": 40.740424853855565,
+        "longitude": -73.97834873685137
+      },
+      "elevation": -8.489734277282633,
+      "metrics": {
+        "heart_rate": 154
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:25:40",
+      "location": {
+        "latitude": 40.740509488892634,
+        "longitude": -73.97828704354156
+      },
+      "elevation": -12.542045881847677,
+      "metrics": {
+        "heart_rate": 141
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:25:45",
+      "location": {
+        "latitude": 40.74061717163761,
+        "longitude": -73.97817724977057
+      },
+      "elevation": -9.177066440492853,
+      "metrics": {
+        "heart_rate": 143
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:25:50",
+      "location": {
+        "latitude": 40.74071312090095,
+        "longitude": -73.97810642774314
+      },
+      "elevation": -10.01409675648921,
+      "metrics": {
+        "heart_rate": 168
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:25:55",
+      "location": {
+        "latitude": 40.74079165843597,
+        "longitude": -73.97800654597711
+      },
+      "elevation": -14.853389688611044,
+      "metrics": {
+        "heart_rate": 149
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:26:00",
+      "location": {
+        "latitude": 40.74087386603388,
+        "longitude": -73.97791394909224
+      },
+      "elevation": -10.747608081509137,
+      "metrics": {
+        "heart_rate": 168
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:26:05",
+      "location": {
+        "latitude": 40.740974134615556,
+        "longitude": -73.97782423514045
+      },
+      "elevation": -11.970306259444785,
+      "metrics": {
+        "heart_rate": 152
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:26:10",
+      "location": {
+        "latitude": 40.7410812429661,
+        "longitude": -73.97775982012305
+      },
+      "elevation": -13.98207799816666,
+      "metrics": {
+        "heart_rate": 146
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:26:15",
+      "location": {
+        "latitude": 40.741145000623405,
+        "longitude": -73.97764971341854
+      },
+      "elevation": -8.5135196808646,
+      "metrics": {
+        "heart_rate": 149
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:26:20",
+      "location": {
+        "latitude": 40.74124936292137,
+        "longitude": -73.97756199631326
+      },
+      "elevation": -13.424190156870262,
+      "metrics": {
+        "heart_rate": 158
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:26:25",
+      "location": {
+        "latitude": 40.74134106671282,
+        "longitude": -73.97746223891943
+      },
+      "elevation": -10.861580534413452,
+      "metrics": {
+        "heart_rate": 164
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:26:30",
+      "location": {
+        "latitude": 40.741402147005296,
+        "longitude": -73.97738735707128
+      },
+      "elevation": -13.65198182000438,
+      "metrics": {
+        "heart_rate": 141
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:26:35",
+      "location": {
+        "latitude": 40.74148704577456,
+        "longitude": -73.97730091219618
+      },
+      "elevation": -14.871607506482889,
+      "metrics": {
+        "heart_rate": 156
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:26:40",
+      "location": {
+        "latitude": 40.7415932854356,
+        "longitude": -73.97719104757219
+      },
+      "elevation": -10.955253980058718,
+      "metrics": {
+        "heart_rate": 156
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:26:45",
+      "location": {
+        "latitude": 40.74169404809704,
+        "longitude": -73.97708492360846
+      },
+      "elevation": -12.059091440198813,
+      "metrics": {
+        "heart_rate": 147
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:26:50",
+      "location": {
+        "latitude": 40.74177092801515,
+        "longitude": -73.97702245120061
+      },
+      "elevation": -13.87555243921924,
+      "metrics": {
+        "heart_rate": 151
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:26:55",
+      "location": {
+        "latitude": 40.741862849905004,
+        "longitude": -73.97691844104538
+      },
+      "elevation": -20.356540602796905,
+      "metrics": {
+        "heart_rate": 150
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:27:00",
+      "location": {
+        "latitude": 40.74196956471812,
+        "longitude": -73.97684899493281
+      },
+      "elevation": -13.744931284017781,
+      "metrics": {
+        "heart_rate": 156
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:27:05",
+      "location": {
+        "latitude": 40.74205795344005,
+        "longitude": -73.97673215776967
+      },
+      "elevation": -17.844783894825007,
+      "metrics": {
+        "heart_rate": 151
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:27:10",
+      "location": {
+        "latitude": 40.74214316442233,
+        "longitude": -73.97667400483998
+      },
+      "elevation": -18.199830611237793,
+      "metrics": {
+        "heart_rate": 164
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:27:15",
+      "location": {
+        "latitude": 40.74222153315021,
+        "longitude": -73.97655512206192
+      },
+      "elevation": -15.594839815547337,
+      "metrics": {
+        "heart_rate": 163
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:27:20",
+      "location": {
+        "latitude": 40.742331732930666,
+        "longitude": -73.97648248280264
+      },
+      "elevation": -13.589776398474287,
+      "metrics": {
+        "heart_rate": 146
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:27:25",
+      "location": {
+        "latitude": 40.742413638109575,
+        "longitude": -73.97638955302273
+      },
+      "elevation": -17.997745614853404,
+      "metrics": {
+        "heart_rate": 156
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:27:30",
+      "location": {
+        "latitude": 40.742499152932936,
+        "longitude": -73.97630628161998
+      },
+      "elevation": -15.61051633064863,
+      "metrics": {
+        "heart_rate": 144
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:27:35",
+      "location": {
+        "latitude": 40.742603272301636,
+        "longitude": -73.97621804136192
+      },
+      "elevation": -11.885269809269873,
+      "metrics": {
+        "heart_rate": 147
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:27:40",
+      "location": {
+        "latitude": 40.74268318599728,
+        "longitude": -73.97611517589358
+      },
+      "elevation": -14.652391130423624,
+      "metrics": {
+        "heart_rate": 166
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:27:45",
+      "location": {
+        "latitude": 40.74277655900777,
+        "longitude": -73.97603505829264
+      },
+      "elevation": -14.70049887666686,
+      "metrics": {
+        "heart_rate": 158
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:27:50",
+      "location": {
+        "latitude": 40.7428637820872,
+        "longitude": -73.97593418273158
+      },
+      "elevation": -15.827387879419696,
+      "metrics": {
+        "heart_rate": 161
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:27:55",
+      "location": {
+        "latitude": 40.74297158984274,
+        "longitude": -73.9758700423009
+      },
+      "elevation": -17.1802993468652,
+      "metrics": {
+        "heart_rate": 148
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:28:00",
+      "location": {
+        "latitude": 40.74304870931771,
+        "longitude": -73.97575305657101
+      },
+      "elevation": -14.618448259195883,
+      "metrics": {
+        "heart_rate": 156
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:28:05",
+      "location": {
+        "latitude": 40.743125038609364,
+        "longitude": -73.97567167994325
+      },
+      "elevation": -13.69565314594961,
+      "metrics": {
+        "heart_rate": 146
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:28:10",
+      "location": {
+        "latitude": 40.74322454019648,
+        "longitude": -73.97558331294097
+      },
+      "elevation": -17.282366346889663,
+      "metrics": {
+        "heart_rate": 142
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:28:15",
+      "location": {
+        "latitude": 40.74328920806463,
+        "longitude": -73.97548726085377
+      },
+      "elevation": -16.711678173216196,
+      "metrics": {
+        "heart_rate": 152
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:28:20",
+      "location": {
+        "latitude": 40.7434119182754,
+        "longitude": -73.97542412528271
+      },
+      "elevation": -16.830986074787315,
+      "metrics": {
+        "heart_rate": 150
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:28:25",
+      "location": {
+        "latitude": 40.74350212297381,
+        "longitude": -73.9753092433788
+      },
+      "elevation": -14.770568766063445,
+      "metrics": {
+        "heart_rate": 150
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:28:30",
+      "location": {
+        "latitude": 40.74356981735173,
+        "longitude": -73.97523151494974
+      },
+      "elevation": -18.515047288273035,
+      "metrics": {
+        "heart_rate": 148
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:28:35",
+      "location": {
+        "latitude": 40.74366343420834,
+        "longitude": -73.97513069375186
+      },
+      "elevation": -16.673322682655346,
+      "metrics": {
+        "heart_rate": 156
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:28:40",
+      "location": {
+        "latitude": 40.743756347254745,
+        "longitude": -73.97504401057313
+      },
+      "elevation": -19.257153953501028,
+      "metrics": {
+        "heart_rate": 163
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:28:45",
+      "location": {
+        "latitude": 40.74385494549636,
+        "longitude": -73.97495374370502
+      },
+      "elevation": -19.772073799732237,
+      "metrics": {
+        "heart_rate": 155
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:28:50",
+      "location": {
+        "latitude": 40.7439321424773,
+        "longitude": -73.97485228091314
+      },
+      "elevation": -18.707423552421233,
+      "metrics": {
+        "heart_rate": 149
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:28:55",
+      "location": {
+        "latitude": 40.74402975963074,
+        "longitude": -73.97477403590315
+      },
+      "elevation": -15.502187028451655,
+      "metrics": {
+        "heart_rate": 161
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:29:00",
+      "location": {
+        "latitude": 40.744108024638734,
+        "longitude": -73.97469809885845
+      },
+      "elevation": -21.654235245407822,
+      "metrics": {
+        "heart_rate": 153
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:29:05",
+      "location": {
+        "latitude": 40.74419931071333,
+        "longitude": -73.97459530065488
+      },
+      "elevation": -17.701102684370557,
+      "metrics": {
+        "heart_rate": 159
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:29:10",
+      "location": {
+        "latitude": 40.74431727379459,
+        "longitude": -73.97450861894242
+      },
+      "elevation": -16.264435706756473,
+      "metrics": {
+        "heart_rate": 160
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:29:15",
+      "location": {
+        "latitude": 40.74438803851928,
+        "longitude": -73.97441996362431
+      },
+      "elevation": -20.882514032365954,
+      "metrics": {
+        "heart_rate": 156
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:29:20",
+      "location": {
+        "latitude": 40.74447070948097,
+        "longitude": -73.9743222000871
+      },
+      "elevation": -20.633138948193206,
+      "metrics": {
+        "heart_rate": 149
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:29:25",
+      "location": {
+        "latitude": 40.74458284330032,
+        "longitude": -73.97421684652126
+      },
+      "elevation": -19.625382037185076,
+      "metrics": {
+        "heart_rate": 155
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:29:30",
+      "location": {
+        "latitude": 40.74465204771539,
+        "longitude": -73.97413045651601
+      },
+      "elevation": -21.70215875685904,
+      "metrics": {
+        "heart_rate": 156
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:29:35",
+      "location": {
+        "latitude": 40.74473652832443,
+        "longitude": -73.97404818524548
+      },
+      "elevation": -17.68437555708603,
+      "metrics": {
+        "heart_rate": 142
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:29:40",
+      "location": {
+        "latitude": 40.74483482103946,
+        "longitude": -73.97398853042756
+      },
+      "elevation": -18.1169990564067,
+      "metrics": {
+        "heart_rate": 173
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:29:45",
+      "location": {
+        "latitude": 40.74495147841297,
+        "longitude": -73.97386502275212
+      },
+      "elevation": -18.432463132431707,
+      "metrics": {
+        "heart_rate": 155
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:29:50",
+      "location": {
+        "latitude": 40.745005443068685,
+        "longitude": -73.97378694021263
+      },
+      "elevation": -16.953796852629196,
+      "metrics": {
+        "heart_rate": 154
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:29:55",
+      "location": {
+        "latitude": 40.745113131925905,
+        "longitude": -73.97369359327044
+      },
+      "elevation": -20.108599776453172,
+      "metrics": {
+        "heart_rate": 155
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:30:00",
+      "location": {
+        "latitude": 40.745199975286546,
+        "longitude": -73.9736039208038
+      },
+      "elevation": -17.24697873865956,
+      "metrics": {
+        "heart_rate": 157
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:30:05",
+      "location": {
+        "latitude": 40.74529011069418,
+        "longitude": -73.97350828088042
+      },
+      "elevation": -16.437993840843365,
+      "metrics": {
+        "heart_rate": 148
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:30:10",
+      "location": {
+        "latitude": 40.74539092007107,
+        "longitude": -73.97342152986987
+      },
+      "elevation": -18.70150192532182,
+      "metrics": {
+        "heart_rate": 160
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:30:15",
+      "location": {
+        "latitude": 40.74547623353028,
+        "longitude": -73.97333757903564
+      },
+      "elevation": -18.9676140328507,
+      "metrics": {
+        "heart_rate": 160
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:30:20",
+      "location": {
+        "latitude": 40.7455449435913,
+        "longitude": -73.97323505394169
+      },
+      "elevation": -18.934049700200333,
+      "metrics": {
+        "heart_rate": 158
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:30:25",
+      "location": {
+        "latitude": 40.74567105955868,
+        "longitude": -73.9731495268126
+      },
+      "elevation": -22.145999408670455,
+      "metrics": {
+        "heart_rate": 158
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:30:30",
+      "location": {
+        "latitude": 40.74574991472672,
+        "longitude": -73.97306260164412
+      },
+      "elevation": -18.33343219431946,
+      "metrics": {
+        "heart_rate": 154
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:30:35",
+      "location": {
+        "latitude": 40.745826391027116,
+        "longitude": -73.97297201518732
+      },
+      "elevation": -17.783393221863996,
+      "metrics": {
+        "heart_rate": 166
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:30:40",
+      "location": {
+        "latitude": 40.74591092293344,
+        "longitude": -73.9728934833501
+      },
+      "elevation": -20.11489159557052,
+      "metrics": {
+        "heart_rate": 150
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:30:45",
+      "location": {
+        "latitude": 40.74599490570799,
+        "longitude": -73.97276539801435
+      },
+      "elevation": -22.338762532958942,
+      "metrics": {
+        "heart_rate": 139
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:30:50",
+      "location": {
+        "latitude": 40.74609830704011,
+        "longitude": -73.97269798564673
+      },
+      "elevation": -18.616239345637318,
+      "metrics": {
+        "heart_rate": 147
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:30:55",
+      "location": {
+        "latitude": 40.74619255751429,
+        "longitude": -73.9726156555839
+      },
+      "elevation": -23.112854434888117,
+      "metrics": {
+        "heart_rate": 160
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:31:00",
+      "location": {
+        "latitude": 40.74628543419069,
+        "longitude": -73.97253275479362
+      },
+      "elevation": -22.29055531294858,
+      "metrics": {
+        "heart_rate": 161
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:31:05",
+      "location": {
+        "latitude": 40.74635137268181,
+        "longitude": -73.97242476690158
+      },
+      "elevation": -17.918218556960934,
+      "metrics": {
+        "heart_rate": 148
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:31:10",
+      "location": {
+        "latitude": 40.74644503412101,
+        "longitude": -73.97234618206589
+      },
+      "elevation": -26.03424788036121,
+      "metrics": {
+        "heart_rate": 144
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:31:15",
+      "location": {
+        "latitude": 40.74655863531481,
+        "longitude": -73.97225266599305
+      },
+      "elevation": -24.17130009401026,
+      "metrics": {
+        "heart_rate": 162
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:31:20",
+      "location": {
+        "latitude": 40.746626100774705,
+        "longitude": -73.97216504920235
+      },
+      "elevation": -21.27739927012538,
+      "metrics": {
+        "heart_rate": 154
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:31:25",
+      "location": {
+        "latitude": 40.746713752263624,
+        "longitude": -73.97207041276043
+      },
+      "elevation": -21.136253923854785,
+      "metrics": {
+        "heart_rate": 154
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:31:30",
+      "location": {
+        "latitude": 40.74682296860359,
+        "longitude": -73.97197679337265
+      },
+      "elevation": -18.98950017200709,
+      "metrics": {
+        "heart_rate": 154
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:31:35",
+      "location": {
+        "latitude": 40.746901320581,
+        "longitude": -73.97189074551979
+      },
+      "elevation": -19.856876254042657,
+      "metrics": {
+        "heart_rate": 153
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:31:40",
+      "location": {
+        "latitude": 40.74698718293487,
+        "longitude": -73.97180205033838
+      },
+      "elevation": -19.120453238308116,
+      "metrics": {
+        "heart_rate": 153
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:31:45",
+      "location": {
+        "latitude": 40.74709688945816,
+        "longitude": -73.97168352725673
+      },
+      "elevation": -19.7681482666911,
+      "metrics": {
+        "heart_rate": 153
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:31:50",
+      "location": {
+        "latitude": 40.747180576038105,
+        "longitude": -73.9716171288116
+      },
+      "elevation": -18.64964910679385,
+      "metrics": {
+        "heart_rate": 153
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:31:55",
+      "location": {
+        "latitude": 40.74727255742739,
+        "longitude": -73.97153826152217
+      },
+      "elevation": -18.666628737094623,
+      "metrics": {
+        "heart_rate": 152
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:32:00",
+      "location": {
+        "latitude": 40.747364177183364,
+        "longitude": -73.97143158398163
+      },
+      "elevation": -20.203005108664858,
+      "metrics": {
+        "heart_rate": 152
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:32:05",
+      "location": {
+        "latitude": 40.747445860712524,
+        "longitude": -73.9713585396238
+      },
+      "elevation": -20.566584556762233,
+      "metrics": {
+        "heart_rate": 152
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:32:10",
+      "location": {
+        "latitude": 40.74755073958603,
+        "longitude": -73.97125287714782
+      },
+      "elevation": -19.75992986205767,
+      "metrics": {
+        "heart_rate": 151
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:32:15",
+      "location": {
+        "latitude": 40.747641656793675,
+        "longitude": -73.97117985479787
+      },
+      "elevation": -22.182694228490025,
+      "metrics": {
+        "heart_rate": 151
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:32:20",
+      "location": {
+        "latitude": 40.74771103101272,
+        "longitude": -73.9710721129123
+      },
+      "elevation": -17.223599451272,
+      "metrics": {
+        "heart_rate": 151
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:32:25",
+      "location": {
+        "latitude": 40.74781324819048,
+        "longitude": -73.97099293620059
+      },
+      "elevation": -21.312034909156353,
+      "metrics": {
+        "heart_rate": 151
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:32:30",
+      "location": {
+        "latitude": 40.74791522282901,
+        "longitude": -73.97091201563521
+      },
+      "elevation": -21.230238816504723,
+      "metrics": {
+        "heart_rate": 150
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:32:35",
+      "location": {
+        "latitude": 40.7479802191251,
+        "longitude": -73.97081715369302
+      },
+      "elevation": -22.20241930382195,
+      "metrics": {
+        "heart_rate": 150
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:32:40",
+      "location": {
+        "latitude": 40.74807675970288,
+        "longitude": -73.97071790559194
+      },
+      "elevation": -16.701880963388422,
+      "metrics": {
+        "heart_rate": 150
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:32:45",
+      "location": {
+        "latitude": 40.748160721230626,
+        "longitude": -73.97063268882125
+      },
+      "elevation": -20.049566653624204,
+      "metrics": {
+        "heart_rate": 149
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:32:50",
+      "location": {
+        "latitude": 40.74827041957566,
+        "longitude": -73.9705337765478
+      },
+      "elevation": -16.725551876588035,
+      "metrics": {
+        "heart_rate": 149
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:32:55",
+      "location": {
+        "latitude": 40.74834494442848,
+        "longitude": -73.97044451729964
+      },
+      "elevation": -18.07874561089366,
+      "metrics": {
+        "heart_rate": 149
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:33:00",
+      "location": {
+        "latitude": 40.74843008684296,
+        "longitude": -73.97035590456639
+      },
+      "elevation": -21.49867337809645,
+      "metrics": {
+        "heart_rate": 149
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:33:05",
+      "location": {
+        "latitude": 40.74853073999818,
+        "longitude": -73.9702711547307
+      },
+      "elevation": -19.720575881723008,
+      "metrics": {
+        "heart_rate": 148
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:33:10",
+      "location": {
+        "latitude": 40.74861968372176,
+        "longitude": -73.97017254206332
+      },
+      "elevation": -17.426382625209815,
+      "metrics": {
+        "heart_rate": 148
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:33:15",
+      "location": {
+        "latitude": 40.748711856793165,
+        "longitude": -73.97009897296867
+      },
+      "elevation": -20.15899331384888,
+      "metrics": {
+        "heart_rate": 148
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:33:20",
+      "location": {
+        "latitude": 40.74880115618876,
+        "longitude": -73.96999617239152
+      },
+      "elevation": -20.198630848999773,
+      "metrics": {
+        "heart_rate": 148
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:33:25",
+      "location": {
+        "latitude": 40.74891593305526,
+        "longitude": -73.96991210517812
+      },
+      "elevation": -18.33609919610638,
+      "metrics": {
+        "heart_rate": 147
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:33:30",
+      "location": {
+        "latitude": 40.74897445334989,
+        "longitude": -73.9698113132175
+      },
+      "elevation": -20.239114446726155,
+      "metrics": {
+        "heart_rate": 147
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:33:35",
+      "location": {
+        "latitude": 40.74908045697426,
+        "longitude": -73.96971785779651
+      },
+      "elevation": -18.158033088090644,
+      "metrics": {
+        "heart_rate": 147
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:33:40",
+      "location": {
+        "latitude": 40.74915164100167,
+        "longitude": -73.96962146034753
+      },
+      "elevation": -17.528159630891324,
+      "metrics": {
+        "heart_rate": 146
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:33:45",
+      "location": {
+        "latitude": 40.74924422784069,
+        "longitude": -73.96955401907466
+      },
+      "elevation": -16.34751007480326,
+      "metrics": {
+        "heart_rate": 146
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:33:50",
+      "location": {
+        "latitude": 40.7493400081148,
+        "longitude": -73.9694672788756
+      },
+      "elevation": -16.67518871561115,
+      "metrics": {
+        "heart_rate": 146
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:33:55",
+      "location": {
+        "latitude": 40.74943318895772,
+        "longitude": -73.96937143063582
+      },
+      "elevation": -17.31805457554617,
+      "metrics": {
+        "heart_rate": 146
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:34:00",
+      "location": {
+        "latitude": 40.74950844135285,
+        "longitude": -73.96927585640677
+      },
+      "elevation": -15.213614137611222,
+      "metrics": {
+        "heart_rate": 145
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:34:05",
+      "location": {
+        "latitude": 40.74960540588004,
+        "longitude": -73.9691800765231
+      },
+      "elevation": -17.919660734116068,
+      "metrics": {
+        "heart_rate": 145
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:34:10",
+      "location": {
+        "latitude": 40.74970161166666,
+        "longitude": -73.96910592748245
+      },
+      "elevation": -17.13477608066168,
+      "metrics": {
+        "heart_rate": 145
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:34:15",
+      "location": {
+        "latitude": 40.7497800813652,
+        "longitude": -73.96901726067787
+      },
+      "elevation": -17.95717618137761,
+      "metrics": {
+        "heart_rate": 144
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:34:20",
+      "location": {
+        "latitude": 40.74988465011264,
+        "longitude": -73.96890936963383
+      },
+      "elevation": -14.592558467577254,
+      "metrics": {
+        "heart_rate": 144
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:34:25",
+      "location": {
+        "latitude": 40.74997633226612,
+        "longitude": -73.96883166338013
+      },
+      "elevation": -14.287854888699634,
+      "metrics": {
+        "heart_rate": 144
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:34:30",
+      "location": {
+        "latitude": 40.75008328919671,
+        "longitude": -73.96873700605283
+      },
+      "elevation": -21.63423809852524,
+      "metrics": {
+        "heart_rate": 144
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:34:35",
+      "location": {
+        "latitude": 40.75014914563907,
+        "longitude": -73.96865047588079
+      },
+      "elevation": -20.346830502089283,
+      "metrics": {
+        "heart_rate": 143
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:34:40",
+      "location": {
+        "latitude": 40.75023138655109,
+        "longitude": -73.96854816825685
+      },
+      "elevation": -15.616668957839165,
+      "metrics": {
+        "heart_rate": 143
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:34:45",
+      "location": {
+        "latitude": 40.75033376262329,
+        "longitude": -73.96846977722812
+      },
+      "elevation": -14.146984619563225,
+      "metrics": {
+        "heart_rate": 143
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:34:50",
+      "location": {
+        "latitude": 40.7504172470158,
+        "longitude": -73.96838200167875
+      },
+      "elevation": -15.472508949343275,
+      "metrics": {
+        "heart_rate": 142
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:34:55",
+      "location": {
+        "latitude": 40.750512174619274,
+        "longitude": -73.96828817330702
+      },
+      "elevation": -12.778050414798045,
+      "metrics": {
+        "heart_rate": 142
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:35:00",
+      "location": {
+        "latitude": 40.75060649209838,
+        "longitude": -73.96821226722786
+      },
+      "elevation": -16.58265914587716,
+      "metrics": {
+        "heart_rate": 142
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:35:05",
+      "location": {
+        "latitude": 40.75070343769026,
+        "longitude": -73.96811356339568
+      },
+      "elevation": -14.13758882883941,
+      "metrics": {
+        "heart_rate": 142
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:35:10",
+      "location": {
+        "latitude": 40.75078621141439,
+        "longitude": -73.96798901846279
+      },
+      "elevation": -11.996450983880505,
+      "metrics": {
+        "heart_rate": 141
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:35:15",
+      "location": {
+        "latitude": 40.750874903331265,
+        "longitude": -73.96794305356707
+      },
+      "elevation": -17.70160689168407,
+      "metrics": {
+        "heart_rate": 141
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:35:20",
+      "location": {
+        "latitude": 40.75096749739511,
+        "longitude": -73.9678260340839
+      },
+      "elevation": -15.759117618147888,
+      "metrics": {
+        "heart_rate": 141
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:35:25",
+      "location": {
+        "latitude": 40.75105518103694,
+        "longitude": -73.96774595989005
+      },
+      "elevation": -7.064311327068183,
+      "metrics": {
+        "heart_rate": 141
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:35:30",
+      "location": {
+        "latitude": 40.7511409003649,
+        "longitude": -73.9676441298804
+      },
+      "elevation": -12.373023571862984,
+      "metrics": {
+        "heart_rate": 140
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:35:35",
+      "location": {
+        "latitude": 40.751238544932654,
+        "longitude": -73.96757955524596
+      },
+      "elevation": -13.719086645640424,
+      "metrics": {
+        "heart_rate": 140
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:35:40",
+      "location": {
+        "latitude": 40.751316555067795,
+        "longitude": -73.96746692225193
+      },
+      "elevation": -9.683507302568593,
+      "metrics": {
+        "heart_rate": 140
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:35:45",
+      "location": {
+        "latitude": 40.751408002799124,
+        "longitude": -73.96738801201577
+      },
+      "elevation": -14.090184677665338,
+      "metrics": {
+        "heart_rate": 139
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:35:50",
+      "location": {
+        "latitude": 40.751494868838535,
+        "longitude": -73.96729407328816
+      },
+      "elevation": -13.677123119790561,
+      "metrics": {
+        "heart_rate": 139
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:35:55",
+      "location": {
+        "latitude": 40.75157429719164,
+        "longitude": -73.96722169641005
+      },
+      "elevation": -12.968242964187548,
+      "metrics": {
+        "heart_rate": 139
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:36:00",
+      "location": {
+        "latitude": 40.75166996819722,
+        "longitude": -73.96712237740304
+      },
+      "elevation": -10.738085069221128,
+      "metrics": {
+        "heart_rate": 139
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:36:05",
+      "location": {
+        "latitude": 40.75177530963844,
+        "longitude": -73.96703650428375
+      },
+      "elevation": -11.312737988154625,
+      "metrics": {
+        "heart_rate": 138
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:36:10",
+      "location": {
+        "latitude": 40.751868672995194,
+        "longitude": -73.96695355830646
+      },
+      "elevation": -10.209523158748452,
+      "metrics": {
+        "heart_rate": 138
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:36:15",
+      "location": {
+        "latitude": 40.75193528720923,
+        "longitude": -73.96683557247987
+      },
+      "elevation": -10.007745383662696,
+      "metrics": {
+        "heart_rate": 138
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:36:20",
+      "location": {
+        "latitude": 40.75204010653705,
+        "longitude": -73.9667405653168
+      },
+      "elevation": -12.656573424360587,
+      "metrics": {
+        "heart_rate": 137
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:36:25",
+      "location": {
+        "latitude": 40.7521314477832,
+        "longitude": -73.96666633561634
+      },
+      "elevation": -11.005482134858319,
+      "metrics": {
+        "heart_rate": 137
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:36:30",
+      "location": {
+        "latitude": 40.752231965633335,
+        "longitude": -73.9665997677117
+      },
+      "elevation": -11.802404033511293,
+      "metrics": {
+        "heart_rate": 137
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:36:35",
+      "location": {
+        "latitude": 40.752318226575774,
+        "longitude": -73.96648791187503
+      },
+      "elevation": -7.963189162069921,
+      "metrics": {
+        "heart_rate": 137
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:36:40",
+      "location": {
+        "latitude": 40.752389283832585,
+        "longitude": -73.9663995989387
+      },
+      "elevation": -12.044563859121121,
+      "metrics": {
+        "heart_rate": 136
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:36:45",
+      "location": {
+        "latitude": 40.75250541617917,
+        "longitude": -73.96631514257115
+      },
+      "elevation": -9.29086089997943,
+      "metrics": {
+        "heart_rate": 136
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:36:50",
+      "location": {
+        "latitude": 40.75257500324299,
+        "longitude": -73.96620684809392
+      },
+      "elevation": -8.080511848755705,
+      "metrics": {
+        "heart_rate": 136
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:36:55",
+      "location": {
+        "latitude": 40.752673408104364,
+        "longitude": -73.96613427847805
+      },
+      "elevation": -9.989561399610528,
+      "metrics": {
+        "heart_rate": 135
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:37:00",
+      "location": {
+        "latitude": 40.75276730315384,
+        "longitude": -73.96606155720086
+      },
+      "elevation": -7.6201990685568735,
+      "metrics": {
+        "heart_rate": 135
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:37:05",
+      "location": {
+        "latitude": 40.752839602638915,
+        "longitude": -73.96594531610268
+      },
+      "elevation": -5.570466300302959,
+      "metrics": {
+        "heart_rate": 135
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:37:10",
+      "location": {
+        "latitude": 40.75293735179857,
+        "longitude": -73.965869807199
+      },
+      "elevation": -8.948694444055565,
+      "metrics": {
+        "heart_rate": 135
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:37:15",
+      "location": {
+        "latitude": 40.753028525924535,
+        "longitude": -73.96575779305958
+      },
+      "elevation": -7.909551553507612,
+      "metrics": {
+        "heart_rate": 134
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:37:20",
+      "location": {
+        "latitude": 40.75312184919822,
+        "longitude": -73.96567729938377
+      },
+      "elevation": -6.370124055034037,
+      "metrics": {
+        "heart_rate": 134
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:37:25",
+      "location": {
+        "latitude": 40.75319729201574,
+        "longitude": -73.96557989072042
+      },
+      "elevation": -7.031496418479655,
+      "metrics": {
+        "heart_rate": 134
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:37:30",
+      "location": {
+        "latitude": 40.75329378234221,
+        "longitude": -73.96549273430993
+      },
+      "elevation": -4.441203145032299,
+      "metrics": {
+        "heart_rate": 134
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:37:35",
+      "location": {
+        "latitude": 40.75338988691075,
+        "longitude": -73.96540375344173
+      },
+      "elevation": -7.827779034672699,
+      "metrics": {
+        "heart_rate": 133
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:37:40",
+      "location": {
+        "latitude": 40.753478054145894,
+        "longitude": -73.96530777400183
+      },
+      "elevation": -6.352676876724424,
+      "metrics": {
+        "heart_rate": 133
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:37:45",
+      "location": {
+        "latitude": 40.75356856713343,
+        "longitude": -73.9652343445875
+      },
+      "elevation": -5.946068419171983,
+      "metrics": {
+        "heart_rate": 133
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:37:50",
+      "location": {
+        "latitude": 40.75364926939065,
+        "longitude": -73.96512484480048
+      },
+      "elevation": -6.2923273512928635,
+      "metrics": {
+        "heart_rate": 132
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:37:55",
+      "location": {
+        "latitude": 40.75375816530917,
+        "longitude": -73.96505978826335
+      },
+      "elevation": -8.199916302734389,
+      "metrics": {
+        "heart_rate": 132
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:38:00",
+      "location": {
+        "latitude": 40.75383427789918,
+        "longitude": -73.96497868700564
+      },
+      "elevation": -5.169213813255836,
+      "metrics": {
+        "heart_rate": 132
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:38:05",
+      "location": {
+        "latitude": 40.75394564037846,
+        "longitude": -73.96486620041298
+      },
+      "elevation": -4.238266865813064,
+      "metrics": {
+        "heart_rate": 132
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:38:10",
+      "location": {
+        "latitude": 40.75404520106653,
+        "longitude": -73.96477796100238
+      },
+      "elevation": -3.662838664491269,
+      "metrics": {
+        "heart_rate": 131
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:38:15",
+      "location": {
+        "latitude": 40.75412208776535,
+        "longitude": -73.96468798324953
+      },
+      "elevation": -6.084532177619769,
+      "metrics": {
+        "heart_rate": 131
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:38:20",
+      "location": {
+        "latitude": 40.754208720898255,
+        "longitude": -73.96460749981514
+      },
+      "elevation": -6.2603617170418335,
+      "metrics": {
+        "heart_rate": 131
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:38:25",
+      "location": {
+        "latitude": 40.75427726353472,
+        "longitude": -73.96450128319701
+      },
+      "elevation": -2.7789388016616563,
+      "metrics": {
+        "heart_rate": 130
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:38:30",
+      "location": {
+        "latitude": 40.75437035418117,
+        "longitude": -73.96441508298285
+      },
+      "elevation": -6.1344349569394625,
+      "metrics": {
+        "heart_rate": 130
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:38:35",
+      "location": {
+        "latitude": 40.75446550689823,
+        "longitude": -73.96435041799597
+      },
+      "elevation": 0.045476411450935394,
+      "metrics": {
+        "heart_rate": 130
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:38:40",
+      "location": {
+        "latitude": 40.75454318253878,
+        "longitude": -73.96423670712421
+      },
+      "elevation": 2.627535798235056,
+      "metrics": {
+        "heart_rate": 130
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:38:45",
+      "location": {
+        "latitude": 40.754648535431556,
+        "longitude": -73.96414988407547
+      },
+      "elevation": -2.241314097326001,
+      "metrics": {
+        "heart_rate": 129
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:38:50",
+      "location": {
+        "latitude": 40.75473826198555,
+        "longitude": -73.9640619861426
+      },
+      "elevation": -1.2783765391875246,
+      "metrics": {
+        "heart_rate": 129
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:38:55",
+      "location": {
+        "latitude": 40.7548364951999,
+        "longitude": -73.96397044606424
+      },
+      "elevation": -6.249719653542596,
+      "metrics": {
+        "heart_rate": 129
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:39:00",
+      "location": {
+        "latitude": 40.75492631911187,
+        "longitude": -73.96388468986058
+      },
+      "elevation": -2.4814711729661862,
+      "metrics": {
+        "heart_rate": 128
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:39:05",
+      "location": {
+        "latitude": 40.755014875889565,
+        "longitude": -73.9638038441455
+      },
+      "elevation": -3.2801992835649303,
+      "metrics": {
+        "heart_rate": 128
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:39:10",
+      "location": {
+        "latitude": 40.755088752028215,
+        "longitude": -73.9636933051007
+      },
+      "elevation": -2.8186729775610866,
+      "metrics": {
+        "heart_rate": 128
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:39:15",
+      "location": {
+        "latitude": 40.75518566334708,
+        "longitude": -73.96362396732687
+      },
+      "elevation": 2.9066870472557307,
+      "metrics": {
+        "heart_rate": 128
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:39:20",
+      "location": {
+        "latitude": 40.7552659344203,
+        "longitude": -73.96352453575349
+      },
+      "elevation": 0.4189315207128146,
+      "metrics": {
+        "heart_rate": 127
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:39:25",
+      "location": {
+        "latitude": 40.75538489921641,
+        "longitude": -73.96341838883576
+      },
+      "elevation": -0.17500427771266766,
+      "metrics": {
+        "heart_rate": 127
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:39:30",
+      "location": {
+        "latitude": 40.755445954815336,
+        "longitude": -73.96334268230477
+      },
+      "elevation": 2.2661024356220207,
+      "metrics": {
+        "heart_rate": 127
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:39:35",
+      "location": {
+        "latitude": 40.755563400406764,
+        "longitude": -73.96324521079508
+      },
+      "elevation": -3.296971480911404,
+      "metrics": {
+        "heart_rate": 127
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:39:40",
+      "location": {
+        "latitude": 40.75564004111933,
+        "longitude": -73.96314785194824
+      },
+      "elevation": 0.15590473308404829,
+      "metrics": {
+        "heart_rate": 126
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:39:45",
+      "location": {
+        "latitude": 40.75573407484033,
+        "longitude": -73.96305845333326
+      },
+      "elevation": 3.476045749361359,
+      "metrics": {
+        "heart_rate": 126
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:39:50",
+      "location": {
+        "latitude": 40.7558143439129,
+        "longitude": -73.96295212508535
+      },
+      "elevation": 5.510860029089873,
+      "metrics": {
+        "heart_rate": 126
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:39:55",
+      "location": {
+        "latitude": 40.755907035238366,
+        "longitude": -73.96290168396037
+      },
+      "elevation": 7.20337168149245,
+      "metrics": {
+        "heart_rate": 125
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:40:00",
+      "location": {
+        "latitude": 40.75600163668539,
+        "longitude": -73.962793171134
+      },
+      "elevation": 3.523089577312419,
+      "metrics": {
+        "heart_rate": 125
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:40:05",
+      "location": {
+        "latitude": 40.75609526055925,
+        "longitude": -73.96271324970029
+      },
+      "elevation": 1.913440441182129,
+      "metrics": {
+        "heart_rate": 125
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:40:10",
+      "location": {
+        "latitude": 40.75618530839163,
+        "longitude": -73.96262859972371
+      },
+      "elevation": 5.6932953945798905,
+      "metrics": {
+        "heart_rate": 125
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:40:15",
+      "location": {
+        "latitude": 40.75627737844712,
+        "longitude": -73.96254748627338
+      },
+      "elevation": 2.167542338799094,
+      "metrics": {
+        "heart_rate": 124
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:40:20",
+      "location": {
+        "latitude": 40.75636203126192,
+        "longitude": -73.96244503721822
+      },
+      "elevation": 2.228359987056225,
+      "metrics": {
+        "heart_rate": 124
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:40:25",
+      "location": {
+        "latitude": 40.756446993774134,
+        "longitude": -73.96237753325458
+      },
+      "elevation": 5.755222470874598,
+      "metrics": {
+        "heart_rate": 124
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:40:30",
+      "location": {
+        "latitude": 40.75654005828401,
+        "longitude": -73.96226635515889
+      },
+      "elevation": 4.869591678756749,
+      "metrics": {
+        "heart_rate": 123
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:40:35",
+      "location": {
+        "latitude": 40.75663792675331,
+        "longitude": -73.96218700523397
+      },
+      "elevation": 1.4775162285544416,
+      "metrics": {
+        "heart_rate": 123
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:40:40",
+      "location": {
+        "latitude": 40.75672813691319,
+        "longitude": -73.96208389032039
+      },
+      "elevation": 5.402683511957547,
+      "metrics": {
+        "heart_rate": 123
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:40:45",
+      "location": {
+        "latitude": 40.75681068261387,
+        "longitude": -73.96200216149877
+      },
+      "elevation": 4.863537160981603,
+      "metrics": {
+        "heart_rate": 123
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:40:50",
+      "location": {
+        "latitude": 40.75689115655514,
+        "longitude": -73.96189630362255
+      },
+      "elevation": 4.585199147028684,
+      "metrics": {
+        "heart_rate": 122
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:40:55",
+      "location": {
+        "latitude": 40.756998193784305,
+        "longitude": -73.96179814946625
+      },
+      "elevation": 5.322008223690836,
+      "metrics": {
+        "heart_rate": 122
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:41:00",
+      "location": {
+        "latitude": 40.757073953969396,
+        "longitude": -73.96172787151696
+      },
+      "elevation": 10.65506041223144,
+      "metrics": {
+        "heart_rate": 122
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:41:05",
+      "location": {
+        "latitude": 40.75717388447692,
+        "longitude": -73.96161147771032
+      },
+      "elevation": 7.825641715510216,
+      "metrics": {
+        "heart_rate": 121
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:41:10",
+      "location": {
+        "latitude": 40.757253571790756,
+        "longitude": -73.96152145832004
+      },
+      "elevation": 8.530288100365171,
+      "metrics": {
+        "heart_rate": 121
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:41:15",
+      "location": {
+        "latitude": 40.75734551377863,
+        "longitude": -73.96142383499253
+      },
+      "elevation": 7.250647523196785,
+      "metrics": {
+        "heart_rate": 121
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:41:20",
+      "location": {
+        "latitude": 40.75744815120561,
+        "longitude": -73.96135506451071
+      },
+      "elevation": 6.17530761381153,
+      "metrics": {
+        "heart_rate": 121
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:41:25",
+      "location": {
+        "latitude": 40.75753308727419,
+        "longitude": -73.96125166792945
+      },
+      "elevation": 7.333031223486176,
+      "metrics": {
+        "heart_rate": 120
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:41:30",
+      "location": {
+        "latitude": 40.75759458370159,
+        "longitude": -73.9611914387959
+      },
+      "elevation": 9.875764939276959,
+      "metrics": {
+        "heart_rate": 120
+      }
+    },
+    {
+      "timestamp": "2026-01-15T08:41:35",
+      "location": {
+        "latitude": 40.757698615840205,
+        "longitude": -73.9611061324712
+      },
+      "elevation": 8.312416848984524,
+      "metrics": {
+        "heart_rate": 120
+      }
+    }
+  ]
+}
